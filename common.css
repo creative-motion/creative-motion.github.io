@@ -53,13 +53,14 @@ a {
 	right: 2em;
 	text-align: right;
 	font-size: medium;
-	color: var(--colorDarkContent);
 
 	--aaaaaaa: 0.4em;
 }
 
 #menu a {
 	margin-bottom: var(--aaaaaaa);
+	text-decoration: none;
+	color: #847DFF;
 }
 
 #menu br {
