@@ -87,9 +87,10 @@
 }
 .col_desc{
 	display: inline-block;
-	margin-top:10vw;
+	margin-top:5vw;
 	margin-left: 6.25vw;
 	width:93.75vw;
+	margin-bottom: 5vw;
 }
 .txt_col{
 	width:25vw;
@@ -128,7 +129,7 @@
 	text-align: justify;
 	font-family: Ubuntu;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
 	color: #FFFFFF;

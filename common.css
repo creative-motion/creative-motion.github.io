@@ -161,11 +161,11 @@ a {
 }
 
 #footer {
-	margin-top: 100px;
+	font-size: 13px;
 	background-color: var(--colorLightBG);
 	color: var(--colorLightContent);
 	text-align: center;
-	padding: 1.5em;
+	padding: 1em;
 }
 
 .scrollToTop {
