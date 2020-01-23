@@ -1,0 +1,256 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Creative Motion</title>
+  <meta name="description"
+    content="Creative Motion is a young team of techies with a passion for technology and innovation, working on various tech projects to help shape the world of tomorrow." />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu:400,700" rel="stylesheet">
+
+  <link rel="stylesheet" href="lang.css" />
+  <link rel="stylesheet" href="common.css" />
+  <link rel="stylesheet" href="art.css" />
+  <link rel="stylesheet" href="home.css" />
+  <link rel="stylesheet" href="slider_carousel.css" />
+
+  <script src="js\lang.js" defer></script>
+  <script src="js\members.js" defer></script>
+  <script src="js\tooltip.js"></script>
+  <script src="js\contact-form.js" defer></script>
+  <script src="js\modal.js" defer></script>
+  <script src="js\alertworkaround.js"></script>
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136710821-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-136710821-1');
+  </script>
+</head>
+
+<body class="langRo" id="top">
+  <div id="menu">
+    <a href="javascript:setLang('ro')">RO</a> / <a href="javascript:setLang('en')">EN</a> <br />
+    <a href="#showcase" data-smoothscroll><span class="ro">Proiecte</span><span class="en">Projects</span></a> <br />
+    <a href="#team" data-smoothscroll><span class="ro">Echipa</span><span class="en">Team</span></a> <br />
+    <a href="#recruit" data-smoothscroll><span class="ro">Alatură-te!</span><span class="en">Join us!</span></a> <br />
+    <a href="#team" data-smoothscroll><span class="ro">Servicii</span><span class="en">Services</span></a> <br />
+    <a href="#contact" data-smoothscroll><span class="ro">Contact</span><span class="en">Contact</span></a> <br />
+  </div>
+  <div id="titlePage">
+    <div class="art-layer">
+      <img src="img\corgi.svg" id="corgi" class="hide-on-small-only" />
+      <img src="img\skater.svg" id="parallax-skater" class="hide-on-small-only" />
+      <img src="img\stars.svg" id="parallax-stars" />
+      <img src="img\astronaut.svg" id="parallax-astronaut" />
+    </div>
+
+    <div id="logo"><img src="img\cmlogo.png" />
+      <div id="logo-text">CREATIVE MOTION</div>
+    </div>
+    <div id="motto"><span class="magic-underline">REINVENT</span><br />THE <span class="magic-underline">WORLD</span>
+      <div id="submotto">The place where fresh ideas become your favorite tech</div>
+    </div>
+  </div>
+  <div class="page" id="showcase">
+    <div class="slider">
+      <div class="slide_viewer">
+        <div class="slide_group">
+          <div class="slide" id="blinkr-panel">
+            <div>
+              <img src="img\blinkr-transparent-logo-shadow.png" />
+              <div class="heading" id="blinkr-text"><span class="en">THE SMART-STRAP<br />EVERY CYCLIST
+                  NEEDS</span><span class="ro">SMART STRAP-UL DE CARE</br> ARE NEVOIE ORICE BICICLIST </span></div>
+              <a href="https://blinkr.ro" class="btn"><span class="ro">Află mai multe</span><span class="en">Find out
+                  more</span></a>
+            </div>
+          </div>
+          <div class="slide" id="foodtrach-panel">
+            <div>
+              <img src="img\foodtrach-logo.png" />
+              <div class="heading" id="blinkr-text">foodtra.ch</div>
+              <div class="heading" id="blinkr-text"><span class="ro">PLATFORMA CARE TE CONECTEAZA <br> CU
+                  FOODTRUCK-URILE</span><span class="en">THE PLATFORM THAT CONNECTS YOU <br> WITH THE FOODTRUCKS</span>
+              </div>
+              <a class="btn" href="https://foodtra.ch"><span class="ro">Afla mai multe</span><span class="en">Early
+                  Demo</span></a>
+            </div>
+          </div>
+          <div class="slide" id="smartboard-panel">
+            <div>
+              <div class="heading" id="blinkr-text" class="first"><br><br><br><br><br><span class="ro">Tabla
+                  Smart</span><span class="en">Smart Board</span></div>
+              <div class="heading" id="blinkr-text"><span class="ro">TABLA CARE SCANEAZA SI STERGE <br> ORICE AI
+                  SCRIS</span><span class="en">THE BOARD THAT SCANS AND ERASES <br> ALL THE THINGS YOU WROTE</span>
+              </div>
+              <a class="btn"><span class="ro">Pagina in constructie</span><span class="en">Work in progress</span></a>
+            </div>
+          </div>
+          <div class="slide" id="cursurisport-panel">
+            <div>
+              <div class="heading" id="blinkr-text" class="first"><br><br><br><br><br><span class="ro">Cursuri
+                  Sport</span><span class="en">Sport Courses</span></div>
+              <div class="heading" id="blinkr-text"><span class="ro">AICI ITI GASESTI VIITORUL PROFESOR DE
+                  SPORT</span><span class="en">SEARCH FOR YOUR NEXT PERSONAL TRAINER</span></div>
+              <a class="btn"><span class="ro">Pagina in constructie</span><span class="en">Work in progress</span></a>
+            </div>
+          </div>
+          <div class="slide" id="ledjx-panel">
+            <div>
+              <div class="heading" id="blinkr-text" class="first"><br><br><br><br><br><br><br>LEDJ X</div>
+              <a class="btn"><span class="ro">Pagina in constructie</span><span class="en">Work in progress</span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="slide_buttons"></div>
+
+    <div class="directional_nav">
+      <div class="previous_btn" title="Previous">
+        ❮
+      </div>
+      <div class="next_btn" title="Next">
+        ❯
+      </div>
+    </div>
+    <div class="action_button" id="portfolio">
+      <a class="btn"><span class="ro">Vezi mai multe dintre proiectele noastre</span><span class="en">See more of our projects</span></a>
+    </div>
+  </div>
+    <div class="col_desc">
+      <div class="txt_col">
+        <div class="heading"><span class="ro">Vreau in echipă!</span><span class="en">Call for recruits</span></div>
+        <div class="description"><span class="ro">Vrem să schimbăm percepția oamenilor asupra studenților și liceenilor,
+            vrem să fie văzuți ca oameni capabili să ofere un produs sau o experiență completă. Noi oferim tinerilor
+            creativi un spațiu în care își pot pune ideile în mișcare. Noi suntem următoarea generație de inventatori.
+            Hai cu noi!</span>
+          <span class="en">We want to change the perception of people on students and teenagers, so they can see them as
+            people capable to deliver a meaningful product or experience. We give creative teenagers a place to put
+            their ideas in motion. We are the next generation of inventors. Join us!</span></div>
+        <a class="btn"><span class="ro">Ce ne-ai putea oferi</span><span class="en">What you could offer us</span></a>
+      </div>
+      <div class="txt_col">
+        <div class="heading"><span class="ro">Cu ce ne ocupăm?</span><span class="en">What we do</span></div>
+        <div class="description"><span class="ro">Noi îți transformăm ideea în realitate, fie ca e vorba de software,
+            hardware sau firmware. Prin procesul nostru de Design Thinking te ajutăm să faci un plan, să creezi un
+            design, să prototipezi și să lansezi produsul tău.</span>
+          <span class="en">We help bring your idea to life, whether it is software, hardware or firmware. Through our
+            Design Thinking process, students and teenagers help you plan, design, prototype and manufacture your
+            product.</span>
+        </div>
+        <a class="btn"><span class="ro">Ce îți putem oferi</span><span class="en">What we can offer you</span></a>
+      </div>
+      <div class="txt_col">
+        <div class="heading"><span class="ro">Cine suntem noi?</span><span class="en">Who are we?</span></div>
+        <div class="description"><span class="ro">Suntem o echipă de liceeni și studenți pasionați de tehnologie și
+            inovație. Împreună lucrăm să rezolvăm problemele de care te lovești zi-de-zi și să modelăm lumea de
+            mâine.</span>
+          <span class="en">We are a team of high-schoolers and students passionate about technology and innovation.
+            Together we solve the problems that all of us face every day and help shape the world of tomorrow.</span>
+        </div>
+        <a class="btn"><span class="ro">Cunoaște echipa!</span><span class="en">Meet our team!</span></a>
+      </div>
+    </div>
+    
+    
+  </body>
+<script>
+  $('.slider').each(function () {
+    var $this = $(this);
+    var $group = $this.find('.slide_group');
+    var $slides = $this.find('.slide');
+    var bulletArray = [];
+    var currentIndex = 0;
+    var timeout;
+
+    function move(newIndex) {
+      var animateLeft, slideLeft;
+
+      advance();
+
+      if ($group.is(':animated') || currentIndex === newIndex) {
+        return;
+      }
+
+      bulletArray[currentIndex].removeClass('active');
+      bulletArray[newIndex].addClass('active');
+
+      if (newIndex > currentIndex) {
+        slideLeft = '100%';
+        animateLeft = '-100%';
+      } else {
+        slideLeft = '-100%';
+        animateLeft = '100%';
+      }
+
+      $slides.eq(newIndex).css({
+        display: 'block',
+        left: slideLeft
+      });
+      $group.animate({
+        left: animateLeft
+      }, function () {
+        $slides.eq(currentIndex).css({
+          display: 'none'
+        });
+        $slides.eq(newIndex).css({
+          left: 0
+        });
+        $group.css({
+          left: 0
+        });
+        currentIndex = newIndex;
+      });
+    }
+
+    function advance() {
+      clearTimeout(timeout);
+      timeout = setTimeout(function () {
+        if (currentIndex < ($slides.length - 1)) {
+          move(currentIndex + 1);
+        } else {
+          move(0);
+        }
+      }, 5000);
+    }
+
+    $('.next_btn').on('click', function () {
+      if (currentIndex < ($slides.length - 1)) {
+        move(currentIndex + 1);
+      } else {
+        move(0);
+      }
+    });
+
+    $('.previous_btn').on('click', function () {
+      if (currentIndex !== 0) {
+        move(currentIndex - 1);
+      } else {
+        move($slides.length - 1);
+      }
+    });
+
+    $.each($slides, function (index) {
+      var $button = $('<a class="slide_btn">&bull;</a>');
+
+      if (index === currentIndex) {
+        $button.addClass('active');
+      }
+      $button.on('click', function () {
+        move(index);
+      }).appendTo('.slide_buttons');
+      bulletArray.push($button);
+    });
+
+    advance();
+  });
+</script>
+</html>

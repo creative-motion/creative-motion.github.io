@@ -1,0 +1,37 @@
+
+.art-layer {
+	position: absolute;
+	top: 0; left: 0;
+	width: 100%; height: 85%;
+	z-index: -1;
+}
+
+.art-layer img {
+	z-index: -10;
+	position: absolute;
+}
+
+#corgi {
+	left: 0;
+	bottom: -4vw;
+	width: 15vw;
+}
+
+#parallax-skater {
+	transform: translateY(calc(var(--scrollTop) / 3));
+	left: 50vw;
+	width: 30vw;
+}
+
+#parallax-stars {
+	top: 30vh;
+	transform: translateY(calc(var(--scrollTop) / 2));
+	right: 0;
+	width: 80vh;
+}
+
+#parallax-astronaut {
+	top: 50vh;
+	right: 0;
+	height: 80vh;
+}
