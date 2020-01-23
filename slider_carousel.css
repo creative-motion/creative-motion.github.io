@@ -1,6 +1,7 @@
 .slider {
     margin: 0 auto;
     width: 90vw;
+    overflow: hidden;
   }
   
   .slide_viewer {

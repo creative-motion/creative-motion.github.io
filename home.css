@@ -81,8 +81,6 @@
 }
 #portfolio{
 	text-align: center;
-	position:relative;
-	bottom:48vw;	
 }
 .slide_viewer{
 	box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.5);
@@ -92,8 +90,6 @@
 	margin-top:10vw;
 	margin-left: 6.25vw;
 	width:93.75vw;
-	position: relative;
-	bottom:50vw;
 }
 .txt_col{
 	width:25vw;
@@ -136,4 +132,8 @@
 	font-size: 18px;
 	line-height: 21px;
 	color: #FFFFFF;
+}
+#showcase{
+	height:100vw;
+	margin-bottom:-48vw;
 }
