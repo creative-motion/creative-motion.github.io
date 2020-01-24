@@ -163,4 +163,59 @@
 	margin-bottom:-30vh;
 }
 
+#blinkr-panel {
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), url(img/small/blinkr-showcase.jpg);
+}
+
+#blinkr-panel img {
+	margin-top: 5vw;
+	margin-bottom: 0vw;
+	width: 25vw;
+}
+#blinkr-text{
+	
+	margin-bottom: 3vw;
+}
+#ledjx-panel {
+	background: url(img/labadjx.gif);
+}
+
+#taskdone-panel {
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.7) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/Frame.png);
+}
+
+#foodtrach-panel {
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/foodtrach.png);
+}
+
+#foodtrach-panel img {
+	margin-top: 6vw;
+	margin-bottom: 1vw;
+	width: 10vw;
+}
+
+#smartboard-panel {
+	background: linear-gradient(90deg, rgba(92, 92, 92, 0.7) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/smartboard.gif);
+	background-position: center;
+}
+
+#cursurisport-panel {
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 33.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/cursurisport.png);
+}
+
+#cursurisport-panel img {
+	margin-top: 6vw;
+	margin-bottom: 1vw;
+	width: 10vw;
+}
+
+#imprimanta-panel {
+	color: black;
+	background-image: url(/assets/img/imprimanta.jpg);
+	background-position: right center;
+	background-size: contain !important;
+	background-repeat: no-repeat;
+	background-color: #7b7b7b;
+}
+
 }
