@@ -182,3 +182,11 @@ a {
 	color: #FFFFFF;
 	margin-bottom:2vh;
   }
+
+
+@media screen and (max-width: 1000px){
+#titlePage {
+	width: 100vw;
+	min-height: 60vh;
+}
+}

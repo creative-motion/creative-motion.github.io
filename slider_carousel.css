@@ -136,7 +136,7 @@
   
 }
 
-.slide .btn {
+.slide .btn {    
     height: 1.5vw;
     cursor: pointer;
     margin-bottom: 2em;
@@ -168,8 +168,9 @@
     font-size: 1.2vw;
     line-height: 1.5vw;
     align-items: center;
-    text-align: center;
+    text-align: center;    
     vertical-align:top;
+
     /* Dark purple */
     
     color: #20124D;
@@ -207,7 +208,9 @@
 @media screen and (max-width: 1000px){
 
 .slide{
-  width:70%;
+  width:90%;
+  padding-left:5%;
+  padding-right:5%;
 }
 
 .slide_viewer{
@@ -223,7 +226,7 @@
   top:-5vh;
 }
 a.slide_btn {
-  font-size: 6vw;
+  font-size: 4vh;
 }
 .slide .heading{
   font-size: 3.2vh;
@@ -231,17 +234,21 @@ a.slide_btn {
 
 }
 .slide .btn span{
-  font-size:2.4vh;
+  font-size:2vh;
+  vertical-align: unset ;
 }
 
 .slide .btn{
-  height: 2.0vh;
+  height:auto;
     cursor: pointer;
     margin-bottom: 2em;
-    padding-top:1.8vh;
-    padding-bottom:1.3vh;  
-    padding-left:1.5vw;
-    padding-right:1.5vw;
+    padding-top:1vh;
+    padding-bottom:1.2vh;  
+    padding-left:2vw;
+    padding-right:2vw;
 }
-
+.previous_btn, .next_btn {
+  
+  font-size:5vh;
+}
 }
