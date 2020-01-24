@@ -33,5 +33,17 @@
 #parallax-astronaut {
 	top: 50vh;
 	right: 0;
-	height: 80vh;
+	width: 40vw;
+}
+
+@media screen and (max-width: 1000px){
+
+#parallax-skater {
+	display: none;
+}
+
+#corgi{
+	display: none;
+}
+
 }
