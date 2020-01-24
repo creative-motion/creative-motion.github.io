@@ -52,8 +52,8 @@ a {
 	top: 1em;
 	right: 2em;
 	text-align: right;
-	font-size: medium;
-
+	font-size: 1.8vmin;
+	line-height: 4vmin;
 	--aaaaaaa: 0.4em;
 }
 
@@ -104,9 +104,11 @@ a {
 }
 
 #submotto {
+	font-family: "Open Sans";
+	font-weight: bold;
 	color:#847DFF;
-	font-size: 1.3vw;
-	margin-top: 2vw
+	font-size: 2.3vmin;
+	margin-top: 3.5vmin;
 }
 
 .magic-underline {

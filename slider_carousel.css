@@ -58,7 +58,6 @@
   a.slide_btn {
     color: #847dff;
     text-shadow: 2px 2px 0px #483780;
-    ;
     font-size: 3vw;
     line-height: 3vw;
     margin: 0 0.05em;
@@ -139,6 +138,7 @@
 
 .slide .btn {
     height: 1.5vw;
+    cursor: pointer;
     margin-bottom: 2em;
     padding-top:1vw;
     padding-bottom:1vw;  
@@ -148,6 +148,9 @@
     box-shadow: 3px 4px 0px #847DFF;
     border-radius: 5px;
     display:inline-block;
+}
+.slide a {
+  text-decoration: none;
 }
 .slide .btn:hover{
 	transition-property: all;
