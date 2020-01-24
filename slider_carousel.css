@@ -204,3 +204,21 @@
   -ms-user-select: none; /* IE10+/Edge */
   user-select: none; /* Standard */
 }
+@media screen and (max-width: 1000px){
+
+.slide_viewer{
+  height:60vh;
+}
+
+.directional_nav {
+  height: 60vh;
+  top: -60vh;
+}
+.slide_buttons {
+  margin-top:2vh;
+  top:-5vh;
+}
+a.slide_btn {
+  font-size: 4vw;
+}
+}
