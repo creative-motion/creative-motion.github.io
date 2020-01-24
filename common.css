@@ -189,4 +189,8 @@ a {
 	width: 100vw;
 	min-height: 60vh;
 }
+.heading{
+	font-size: 3.2vh;
+	line-height: 3.8vh;
+  }
 }

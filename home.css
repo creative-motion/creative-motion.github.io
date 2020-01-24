@@ -95,7 +95,7 @@
 .txt_col{
 	width:25vw;
 	margin-right:6.25vw;
-	float:right;
+	float:left;
 	text-align:center;
 }
 .txt_col .btn {
@@ -217,5 +217,40 @@
 	background-repeat: no-repeat;
 	background-color: #7b7b7b;
 }
-
+#portfolio .btn{
+    height:auto;
+    cursor: pointer;
+    margin-bottom: 2em;
+    padding-top:1vh;
+    padding-bottom:1.2vh;  
+    padding-left:2vw;
+    padding-right:2vw;
+}
+#portfolio .btn span{
+    font-size:1.8vh;
+	vertical-align: unset ;
+}
+.txt_col{
+	float: none;
+	width:70vw;
+	margin-left:15vw;
+	margin-right:15vw;
+}
+.col_desc{
+	margin-left: 0vw;
+}
+.txt_col .btn{
+	width: auto;
+    height:auto;
+    cursor: pointer;
+    margin-bottom: 2em;
+    padding-top:1vh;
+    padding-bottom:1.2vh;  
+    padding-left:2vw;
+    padding-right:2vw;
+}
+.txt_col .btn span{
+    font-size:1.8vh;
+	vertical-align: unset ;
+}
 }
