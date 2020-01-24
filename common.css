@@ -97,16 +97,16 @@ a {
 	font-family: "Ubuntu";
 	font-weight: bold;
 	font-size: 12vmin;
-
+	
 	position: absolute;
 	top: 1.5em;
 	left: 1em;
 }
 
 #submotto {
-	font-family: "Open Sans";
-	font-weight: normal;
-	font-size: 3vh;
+	color:#847DFF;
+	font-size: 1.3vw;
+	margin-top: 2vw
 }
 
 .magic-underline {
@@ -136,7 +136,6 @@ a {
 	border-radius: 5px;
 
 	text-align: center;
-	vertical-align: middle;
 
 	background-color: var(--colorDarkBG);
 	color: white;
@@ -152,14 +151,6 @@ a {
 /*	box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5), 0 3px 3px 0 rgba(0,0,0,0.14),0 1px 7px 0 rgba(0,0,0,0.12),0 3px 1px -1px rgba(0,0,0,0.2);*/
 }
 
-.btn {
-  transition: filter 150ms;
-  color:#FFFFFF;
-}
-
-.btn:hover {
-  filter: brightness(150%);
-}
 
 #footer {
 	font-size: 13px;

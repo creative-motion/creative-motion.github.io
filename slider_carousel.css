@@ -149,6 +149,15 @@
     border-radius: 5px;
     display:inline-block;
 }
+.slide .btn:hover{
+	transition-property: all;
+	transition-duration: .05s;
+	transition-timing-function: ease-in;
+	margin-left:5px;
+	margin-top:4px;
+	margin-bottom:calc(2em - 4px);
+	box-shadow: 0px 0px 0px #847DFF;
+}
 .slide .btn span{
     font-family: Ubuntu;
     font-style: normal;
