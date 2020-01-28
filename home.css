@@ -230,14 +230,18 @@
     font-size:1.8vh;
 	vertical-align: unset ;
 }
-.txt_col{
-	float: none;
-	width:70vw;
-	margin-left:15vw;
-	margin-right:15vw;
+.txt_col {
+    float: none !important;
+    width: 100%;
+    /* margin-left: 15vw; */
+    /* margin-right: 15vw; */
 }
-.col_desc{
-	margin-left: 0vw;
+.col_desc {
+    margin-left: 0vw;
+    text-align: center;
+    width: 70vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
 }
 .txt_col .btn{
 	width: auto;
@@ -252,5 +256,9 @@
 .txt_col .btn span{
     font-size:1.8vh;
 	vertical-align: unset ;
+}
+.description span{
+	
+	font-size: 13px;
 }
 }
