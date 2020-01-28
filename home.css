@@ -248,13 +248,13 @@
     height:auto;
     cursor: pointer;
     margin-bottom: 2em;
-    padding-top:1vh;
-    padding-bottom:1.2vh;  
+    padding-top:2vw;
+    padding-bottom:2.2vw;  
     padding-left:2vw;
     padding-right:2vw;
 }
 .txt_col .btn span{
-    font-size:1.8vh;
+    font-size:2.8vw;
 	vertical-align: unset ;
 }
 .description span{
