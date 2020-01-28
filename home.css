@@ -160,7 +160,7 @@
 
 #showcase{
 	height:100vh;
-	margin-bottom:-30vh;
+	margin-bottom:-37vh;
 }
 
 #blinkr-panel {
@@ -221,43 +221,47 @@
     height:auto;
     cursor: pointer;
     margin-bottom: 2em;
-    padding-top:1vh;
-    padding-bottom:1.2vh;  
-    padding-left:2vw;
-    padding-right:2vw;
+	padding-top:3.5vw;
+	margin-top:0vw;
+    padding-bottom:3vw;  
+    padding-left:4vw;
+    padding-right:4vw;
 }
 #portfolio .btn span{
-    font-size:1.8vh;
+    font-size:4vw;
 	vertical-align: unset ;
 }
 .txt_col {
     float: none !important;
-    width: 100%;
+	width: 100%;
+	margin-top:8vw;
     /* margin-left: 15vw; */
     /* margin-right: 15vw; */
 }
 .col_desc {
     margin-left: 0vw;
     text-align: center;
-    width: 70vw;
-    margin-left: 15vw;
-    margin-right: 15vw;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
 }
 .txt_col .btn{
 	width: auto;
     height:auto;
     cursor: pointer;
     margin-bottom: 2em;
-    padding-top:2vw;
-    padding-bottom:2.2vw;  
+	padding-top:3vw;
+	margin-top:6vw;
+    padding-bottom:2.5vw;  
     padding-left:2vw;
     padding-right:2vw;
 }
 .txt_col .btn span{
-    font-size:2.8vw;
+    font-size:4vw;
 	vertical-align: unset ;
 }
 .description span{
-	font-size: 18px;
+	font-size: 37px;
+    line-height: normal;
 }
 }

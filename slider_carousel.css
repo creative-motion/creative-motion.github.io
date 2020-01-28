@@ -234,7 +234,7 @@ a.slide_btn {
 
 }
 .slide .btn span{
-  font-size:1.8vh;
+  font-size:2vh;
   vertical-align: unset ;
 }
 
@@ -242,10 +242,10 @@ a.slide_btn {
   height:auto;
     cursor: pointer;
     margin-bottom: 2em;
-    padding-top:1vh;
-    padding-bottom:1.2vh;  
-    padding-left:2vw;
-    padding-right:2vw;
+    padding-top:2vh;
+    padding-bottom:1.8vh;  
+    padding-left:4vw;
+    padding-right:4vw;
 }
 .previous_btn, .next_btn {
   

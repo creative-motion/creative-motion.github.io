@@ -193,5 +193,19 @@ a {
 	font-size: 3.2vh;
 	line-height: 3.8vh;
   }
-
+  #footer {
+	font-size: 25px;
+	background-color: var(--colorLightBG);
+	color: var(--colorLightContent);
+	text-align: center;
+	padding: 1em;
+}
+ #menu{
+	font-size: 3vmin;
+ }
+ #submotto{
+	 
+	font-size: 3vmin;
+	margin-top: 3.5vmin;
+ }
 }
