@@ -49,7 +49,6 @@
       <img src="img\corgi.svg" id="corgi" class="hide-on-small-only" />
       <img src="img\skater.svg" id="parallax-skater" class="hide-on-small-only" />
       <img src="img\stars.svg" id="parallax-stars" />
-      <img src="img\astronaut.svg" id="parallax-astronaut" />
     </div>
 
     <div id="logo"><img src="img\cmlogo.png" />
@@ -60,30 +59,8 @@
     </div>
   </div>
   <div id="team">
-    <div class="row">
-        <noscript>Cardurile cu membrii echipei sunt afisate cu javascript</noscript>
-        <script src="data\members.js"></script>
-        <script>
-        for(let member of members) {
-            document.write(`
-        <div class="member col s12 m6 l4" id="member-${member.name}">
-            <div class="member-card z-depth-2">
-                <img src="member-photos\\small\\${member.photo}" class="circle z-depth-1">
-                <div class="name">${member.name}</div>
-                <div class="role">${member.role}</div>
-                <div class="info"><a href="javascript:void(modal_display_elem(document.getElementById('member-${member.name}')))"></a></div>
-                <div class="mailbtn"><a href="mailto:${member.mail}"></a></div>
-            </div>
-            <div class="desc z-depth-4">
-                <span class="ro">${member.desc.ro}</span>
-                <span class="en">${member.desc.en}</span>
-            </div>
-        </div>
-            `);
-        }
-        </script>
-
-    </div>
+    <img class="circuit" src="data\members.svg" />
+    
 </div>
   <div id="footer">
     Made with ❤ by the creative motion team 
