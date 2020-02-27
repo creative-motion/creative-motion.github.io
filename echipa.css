@@ -2,3 +2,9 @@
     width:95vw;
     padding-left:3.5vw;
 }
+g#Luca-tab{
+    display:none;
+}
+.cls-12{
+    z-index: -1;
+}
