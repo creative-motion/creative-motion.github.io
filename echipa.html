@@ -74,12 +74,12 @@
 <script>
 function show(id) {
   var svgObject = document.getElementById('svg-object').contentDocument;
-  var element = svgObject.getElementById('item');
+  var element = svgObject.getElementById(id);
   svgObject.getElementById(id).style.display = 'block';
 } 
 function hide(id) {
   var svgObject = document.getElementById('svg-object').contentDocument;
-  var element = svgObject.getElementById('item');
+  var element = svgObject.getElementById(id);
   svgObject.getElementById(id).style.display = 'none';
 } 
 </script>
