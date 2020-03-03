@@ -80,10 +80,8 @@ function show(id) {
 function hide(id) {
   var object = document.getElementById("svg-object");
   var svgDocument = object.contentDocument;
-  var svgb1 = svgDocument.getElementsByClassName("Luca-tab");
-  var svgb2 = svgDocument.getElementsByClassName("secondb");
+  var svgb1 = svgDocument.getElementsById("Luca-tab");
   svgb1[0].setAttribute("display", "none");
-  svgb2[0].setAttribute("fill", "red");
 } 
 </script>
 </html>
