@@ -78,7 +78,9 @@ function show(id) {
   svgObject.getElementById(id).style.display = 'block';
 } 
 function hide(id) {
-  SVGElement.getElementById(id).style.display = 'none';
+  var svgObject = document.getElementById('svg-object').contentDocument;
+  var element = svgObject.getElementById('item');
+  svgObject.getElementById(id).style.display = 'none';
 } 
 </script>
 </html>
