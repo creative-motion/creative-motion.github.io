@@ -59,9 +59,8 @@
     </div>
   </div>
   <div id="team">
-    <embed  id="svg-object" class="svg-object" type="image/svg+xml" src="data\members_mobile.svg" />
-    <object id="svg-object" class="svg-object" type="image/svg+xml" data="data\members_mobile.svg"></object>
-    <img src="data\members_mobile.svg">
+    
+    <object id="svg-object" class="svg-object" type="image/svg+xml" data="members_mobile.svg"></object>
     
     
     
@@ -72,16 +71,31 @@
 
 </body>
 <script>
-function show(id) {
+/*function show(id) {
   var svgObject = document.getElementById('svg-object').contentDocument;
   var element = svgObject.getElementById(id);
   svgObject.getElementById(id).style.display = 'block';
-} 
+} <embed  id="svg-object" class="svg-object" type="image/svg+xml" src="members_mobile.svg" />
 function hide(id) {
   var object = document.getElementById("svg-object");
   var svgDocument = object.contentDocument;
   var svgb1 = svgDocument.getElementsById("Luca-tab");
   svgb1[0].setAttribute("display", "none");
-} 
+} */
+  var a = document.getElementById("svg-object");
+
+// It's important to add an load event listener to the object,
+// as it will load the svg doc asynchronously
+a.addEventListener("load",function(){
+
+    // get the inner DOM of alpha.svg
+    var svgDoc = a.contentDocument;
+    // get the inner element by id
+    var delta = svgDoc.getElementById("Layer_2");
+    // add behaviour
+    delta.addEventListener("onmouseout",function(){
+            alert('hello world!')
+    }, false);
+}, false);
 </script>
 </html>
