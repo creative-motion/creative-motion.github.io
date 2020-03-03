@@ -59,8 +59,8 @@
     </div>
   </div>
   <div id="team">
-    <embed id="svg-object" type="image/svg+xml" src="data\members_mobile.svg" />
-    <object type="image/svg+xml" data="data\members_mobile.svg"></object>
+    <embed  id="svg-object" class="svg-object" type="image/svg+xml" src="data\members_mobile.svg" />
+    <object id="svg-object" class="svg-object" type="image/svg+xml" data="data\members_mobile.svg"></object>
     <img src="data\members_mobile.svg">
     
     
@@ -78,9 +78,12 @@ function show(id) {
   svgObject.getElementById(id).style.display = 'block';
 } 
 function hide(id) {
-  var svgObject = document.getElementById('svg-object').contentDocument;
-  var element = svgObject.getElementById(id);
-  svgObject.getElementById(id).style.display = 'none';
+  var object = document.getElementById("svg-object");
+  var svgDocument = object.contentDocument;
+  var svgb1 = svgDocument.getElementsByClassName("Luca-tab");
+  var svgb2 = svgDocument.getElementsByClassName("secondb");
+  svgb1[0].setAttribute("display", "none");
+  svgb2[0].setAttribute("fill", "red");
 } 
 </script>
 </html>
