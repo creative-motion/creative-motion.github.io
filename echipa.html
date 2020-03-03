@@ -59,8 +59,7 @@
     </div>
   </div>
   <div id="team">
-    
-    <object id="svg-object" class="svg-object" type="image/svg+xml" data="members_mobile.svg"></object>
+    <object id="svgobject" class="svg-object" type="image/svg+xml" data="members_mobile.svg"></object>
     
     
     
@@ -82,7 +81,7 @@ function hide(id) {
   var svgb1 = svgDocument.getElementsById("Luca-tab");
   svgb1[0].setAttribute("display", "none");
 } */
-  var a = document.getElementById("svg-object");
+var a = document.getElementById("svgobject");
 
 // It's important to add an load event listener to the object,
 // as it will load the svg doc asynchronously
@@ -91,10 +90,10 @@ a.addEventListener("load",function(){
     // get the inner DOM of alpha.svg
     var svgDoc = a.contentDocument;
     // get the inner element by id
-    var delta = svgDoc.getElementById("Layer_2");
+    var delta = svgDoc.getElementById("Luca-tab");
     // add behaviour
-    delta.addEventListener("onmouseout",function(){
-            alert('hello world!')
+    delta.addEventListener("mouseout",function(){
+            delta.style.display = 'none';
     }, false);
 }, false);
 </script>
