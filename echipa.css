@@ -1,9 +1,8 @@
 .circuit{
     width:95vw;
-    padding-left:3.5vw;
-}
-.svg-object #Luca-tab{
-    display:none;
+    padding-left:2.5vw;
+    margin-top: -20vw;
+
 }
 .cls-12{
     z-index: -1;
