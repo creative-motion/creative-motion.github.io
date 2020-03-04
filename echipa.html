@@ -31,7 +31,7 @@
 
     gtag('config', 'UA-136710821-1');
   </script>
-<script>
+  <script>
   $(function(){
     $("#team").load("members_mobile.svg");
   });
@@ -62,35 +62,18 @@
       <div id="submotto">The place where fresh ideas become your favorite tech</div>
     </div>
   </div>
-  <div id="team">
-    
-    
-    
-</div>
+  <div id="team"></div>
   <div id="footer">
     Made with ❤ by the creative motion team 
 </div>
 
 </body>
 <script>
-
-var a = document.getElementById("svgobject");
-
-// It's important to add an load event listener to the object,
-// as it will load the svg doc asynchronously     <object id="svgobject" class="svg-object" type="image/svg+xml" data="members_mobile.svg"></object>
-a.addEventListener("load",function(){
-
-    // get the inner DOM of alpha.svg
-    var svgDoc = a.contentDocument;
-    // get the inner element by id
-    var delta = svgDoc.getElementById("Luca-tab");
-    // add behaviour
-    delta.addEventListener("mouseout",function(){
-            delta.style.display = 'none';
-    }, false);
-    delta.addEventListener("mouseon",function(){
-            delta.style.display = 'display';
-    }, false);
-}, false);
+function show(id) {
+  document.getElementById(id).style.display = 'block';
+}
+function hide(id) {
+  document.getElementById(id).style.display = 'none';
+  }
 </script>
 </html>
