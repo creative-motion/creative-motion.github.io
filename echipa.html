@@ -13,7 +13,6 @@
   <link rel="stylesheet" href="art.css" />
   <link rel="stylesheet" href="echipa.css" />
   <link rel="stylesheet" href="slider_carousel.css" />
-
   <script src="js\lang.js" defer></script>
   <script src="js\members.js" defer></script>
   <script src="js\tooltip.js"></script>
@@ -31,6 +30,11 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-136710821-1');
+  </script>
+<script>
+  $(function(){
+    $("#team").load("members_mobile.svg");
+  });
   </script>
 </head> 
 
@@ -59,7 +63,6 @@
     </div>
   </div>
   <div id="team">
-    <object id="svgobject" class="svg-object" type="image/svg+xml" data="members_mobile.svg"></object>
     
     
     
@@ -70,21 +73,11 @@
 
 </body>
 <script>
-/*function show(id) {
-  var svgObject = document.getElementById('svg-object').contentDocument;
-  var element = svgObject.getElementById(id);
-  svgObject.getElementById(id).style.display = 'block';
-} <embed  id="svg-object" class="svg-object" type="image/svg+xml" src="members_mobile.svg" />
-function hide(id) {
-  var object = document.getElementById("svg-object");
-  var svgDocument = object.contentDocument;
-  var svgb1 = svgDocument.getElementsById("Luca-tab");
-  svgb1[0].setAttribute("display", "none");
-} */
+
 var a = document.getElementById("svgobject");
 
 // It's important to add an load event listener to the object,
-// as it will load the svg doc asynchronously
+// as it will load the svg doc asynchronously     <object id="svgobject" class="svg-object" type="image/svg+xml" data="members_mobile.svg"></object>
 a.addEventListener("load",function(){
 
     // get the inner DOM of alpha.svg
@@ -94,6 +87,9 @@ a.addEventListener("load",function(){
     // add behaviour
     delta.addEventListener("mouseout",function(){
             delta.style.display = 'none';
+    }, false);
+    delta.addEventListener("mouseon",function(){
+            delta.style.display = 'display';
     }, false);
 }, false);
 </script>
