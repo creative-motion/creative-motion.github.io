@@ -228,7 +228,7 @@
     padding-right:4vw;
 }
 #portfolio .btn span{
-    font-size:4vw;
+    font-size:27px;
 	vertical-align: unset ;
 }
 .txt_col {
@@ -257,11 +257,11 @@
     padding-right:2vw;
 }
 .txt_col .btn span{
-    font-size:4vw;
+    font-size:27px;
 	vertical-align: unset ;
 }
 .description span{
-	font-size: 37px;
+	font-size: 27px;
     line-height: normal;
 }
 }

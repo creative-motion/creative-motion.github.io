@@ -234,7 +234,7 @@ a.slide_btn {
 
 }
 .slide .btn span{
-  font-size:2vh;
+  font-size:20px;
   vertical-align: unset ;
 }
 
@@ -242,7 +242,7 @@ a.slide_btn {
   height:auto;
     cursor: pointer;
     margin-bottom: 2em;
-    padding-top:2vh;
+    padding-top:1.8vh;
     padding-bottom:1.8vh;  
     padding-left:4vw;
     padding-right:4vw;
