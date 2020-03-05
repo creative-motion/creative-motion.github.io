@@ -1,9 +1,10 @@
 .container{
-    margin-top:60vw;
+    margin-top:35vw;
     margin-left:10vw;
     width:80vw;
 }
 .step{
+    margin-bottom:15vw;
     display: inline-block;
     width:100%;
 }
@@ -13,7 +14,7 @@
     float:left;
 }
 .heading{
-    text-align: left;
+    text-align:left;
     margin-left:0vw;
 	font-size: 3vw;
 	line-height: 3.5vw;
@@ -30,4 +31,16 @@
 	line-height: 1.5vw;
 	font-family: 'Open Sans';
 	font-weight: bold;
+}
+.step.right .step_txt{
+    float: right;
+}
+.step.right img{
+    float: right;
+}
+.step.right .heading{
+    text-align:right;
+}
+.step.right .short{
+    text-align:right;
 }
