@@ -187,7 +187,7 @@ a {
 	line-height: 3.8vh;
   }
   #footer {
-	font-size: 25px;
+	font-size: 10px;
 	background-color: var(--colorLightBG);
 	color: var(--colorLightContent);
 	text-align: center;

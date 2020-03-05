@@ -225,10 +225,12 @@
 	margin-top:0vw;
     padding-bottom:3vw;  
     padding-left:4vw;
-    padding-right:4vw;
+	padding-right:4vw;
+	margin-left:10%;
+	margin-right:10%;
 }
 #portfolio .btn span{
-    font-size:27px;
+    font-size:20px;
 	vertical-align: unset ;
 }
 .txt_col {
@@ -257,11 +259,11 @@
     padding-right:2vw;
 }
 .txt_col .btn span{
-    font-size:27px;
+    font-size:20px;
 	vertical-align: unset ;
 }
 .description span{
-	font-size: 27px;
+	font-size: 20px;
     line-height: normal;
 }
 }

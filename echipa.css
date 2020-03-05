@@ -62,3 +62,38 @@
         line-height: 21px;
         color: #FFFFFF;
     }
+    @media screen and (max-width: 1000px){
+        .txt_col {
+            float: none !important;
+            width: 100%;
+            margin-top:8vw;
+            /* margin-left: 15vw; */
+            /* margin-right: 15vw; */
+        }
+        .col_desc {
+            margin-left: 0vw;
+            text-align: center;
+            width: 80vw;
+            margin-left: 10vw;
+            margin-right: 10vw;
+        }
+        .txt_col .btn{
+            width: auto;
+            height:auto;
+            cursor: pointer;
+            margin-bottom: 2em;
+            padding-top:3vw;
+            margin-top:6vw;
+            padding-bottom:2.5vw;  
+            padding-left:2vw;
+            padding-right:2vw;
+        }
+        .txt_col .btn span{
+            font-size:20px;
+            vertical-align: unset ;
+        }
+        .description span{
+            font-size: 20px;
+            line-height: normal;
+        }
+    }
