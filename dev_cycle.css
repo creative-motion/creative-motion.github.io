@@ -16,8 +16,8 @@
 .heading{
     text-align:left;
     margin-left:0vw;
-	font-size: 3vw;
-	line-height: 3.5vw;
+	font-size: 3.3vw;
+	line-height: 3.7vw;
 }
 .step img{
     width:50%;
@@ -27,8 +27,8 @@
 .short{
     margin-top:7%;
     margin-left:7%;
-	font-size: 25px;
-	line-height: 30px;
+	font-size: 20px;
+	line-height: 25px;
 	font-family: 'Open Sans';
 	font-weight: bold;
 }
@@ -43,4 +43,25 @@
 }
 .step.right .short{
     text-align:right;
+    margin-left:0%;
+    margin-right:7%;
+}
+@media screen and (max-width: 800px){
+
+    .heading{
+	    font-size: 35px;
+        line-height: 40px;
+    }
+    .step img{
+        margin-top:10vw;
+        width:100%;
+
+    }
+    .step_txt{
+        width:100%;
+    }
+    .short{
+	    font-size: 20px;
+	    line-height: 25px;
+    }
 }
