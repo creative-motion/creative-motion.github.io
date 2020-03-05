@@ -1,0 +1,33 @@
+.container{
+    margin-top:60vw;
+    margin-left:10vw;
+    width:80vw;
+}
+.step{
+    display: inline-block;
+    width:100%;
+}
+.step_txt{
+    
+    width:50%;
+    float:left;
+}
+.heading{
+    text-align: left;
+    margin-left:0vw;
+	font-size: 3vw;
+	line-height: 3.5vw;
+}
+.step img{
+    width:50%;
+	float:left;
+
+}
+.short{
+    margin-top:7%;
+    margin-left:7%;
+	font-size: 1vw;
+	line-height: 1.5vw;
+	font-family: 'Open Sans';
+	font-weight: bold;
+}

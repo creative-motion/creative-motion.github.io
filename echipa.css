@@ -1,9 +1,64 @@
-.circuit{
+.circuit {
     width:95vw;
     padding-left:2.5vw;
-    margin-top: -20vw;
-
+    margin-top: -10vw;
+    color: rgba(0, 0, 0, 0);
 }
-.cls-12{
-    z-index: -1;
-}
+    .col_desc{
+        display: inline-block;
+        margin-top:5vw;
+        margin-left: 6.25vw;
+        width:93.75vw;
+        margin-bottom: 5vw;
+    }
+    .txt_col{
+        width:40vw;
+        margin-right:6.25vw;
+        float:left;
+        text-align:center;
+    }
+    .txt_col .btn {
+        height: 1.5vw;
+        margin-bottom: 2em;
+        padding-top:1vw;
+        padding-bottom:1vw;  
+        padding-left:1.5vw;
+        padding-right:1.5vw;
+        background: #FFFFFF;
+        box-shadow: 3px 4px 0px #847DFF;
+        border-radius: 5px;
+        display:inline-block;
+        margin-top: 2vw;
+        width:15vw;cursor: pointer;
+    }
+    .txt_col .btn:hover{
+        transition-property: all;
+        transition-duration: .05s;
+        transition-timing-function: ease-in;
+        margin-left:5px;
+        margin-top:calc(2vw + 4px);
+        margin-bottom:calc(2em - 4px);
+        box-shadow: 0px 0px 0px #847DFF;
+    }
+    .txt_col .btn span{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 1.2vw;
+        line-height: 1.5vw;
+        align-items: center;
+        text-align: center;
+        vertical-align:top;
+        /* Dark purple */
+        
+        color: #20124D;
+    }
+    .description{
+        text-align: justify;
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
