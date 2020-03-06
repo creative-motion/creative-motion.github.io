@@ -7,12 +7,12 @@ body{
     color: rgba(0, 0, 0, 0);}
 #wheel {
     color: rgba(0, 0, 0, 0);
-    animation: ckw 1.5s ease-in-out infinite;
+    animation: ckw 3s ease-in-out infinite;
     transform-origin: 50% 50%;
     display: inline-block;
     animation-play-state: paused;
 }
-#wheel:hover{   
+#Layer_1:hover #wheel{   
     animation-play-state: running;
 }
   
