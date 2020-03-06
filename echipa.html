@@ -32,11 +32,6 @@
 
     gtag('config', 'UA-136710821-1');
   </script>
-  <script>
-  $(function(){
-    $("#team").load("members_mobile.svg");
-  });
-  </script>
 </head> 
 
 
@@ -56,13 +51,16 @@
       <img src="img\stars.svg" id="parallax-stars" />
     </div>
 
-    <div id="logo"><img src="img\cmlogo.png" />
+    <div id="logo">
+      <script>$(function(){$("#logo_m").load("cm.svg");$("#team").load("members_mobile.svg");});</script>
+      <div id="logo_m"></div>
       <div id="logo-text">CREATIVE MOTION</div>
     </div>
     <div id="motto"><span class="magic-underline">MEET</span><br />OUR <span class="magic-underline">TEAM</span>
       <div id="submotto">The place where fresh ideas become your favorite tech</div>
     </div>
   </div>
+  <!--<script>$(function(){ $("#team").load("members_mobile.svg");});</script> -->
   <div id="team" class="circuit" ></div>
   <div class="col_desc">
     <div class="txt_col">
