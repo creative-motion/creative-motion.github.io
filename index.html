@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="common.css" />
   <link rel="stylesheet" href="art.css" />
   <link rel="stylesheet" href="home.css" />
+  <link rel="stylesheet" href="wheel.css" />
   <link rel="stylesheet" href="slider_carousel.css" />
 
   <script src="js\lang.js" defer></script>
@@ -32,6 +33,11 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-136710821-1');
+  </script>
+  <script>
+  $(function(){
+    $("#logo_m").load("cm.svg");
+  });
   </script>
 </head> 
 
@@ -53,7 +59,7 @@
       <img src="img\astronaut.svg" id="parallax-astronaut" />
     </div>
 
-    <div id="logo"><img src="img\cmlogo.png" />
+    <div id="logo"><div id="logo_m"></div>
       <div id="logo-text">CREATIVE MOTION</div>
     </div>
     <div id="motto"><span class="magic-underline">REINVENT</span><br />THE <span class="magic-underline">WORLD</span>
