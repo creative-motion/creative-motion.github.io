@@ -9,7 +9,6 @@
     width:100%;
 }
 .step_txt{
-    
     width:50%;
     float:left;
 }
@@ -18,6 +17,12 @@
     margin-left:0vw;
 	font-size: 3.3vw;
 	line-height: 3.7vw;
+}
+.heading.small{
+    
+	font-size: 2vw;
+    line-height: 2.3vw;
+    padding-left: 2vw;
 }
 .step img{
     width:50%;
@@ -46,11 +51,29 @@
     margin-left:0%;
     margin-right:7%;
 }
+.questions{
+    width:100%;
+    display:inline-block;
+}
+.questions .step_txt{
+    width:100%;
+}
+.questions .short{
+    margin-top:0;
+    margin-bottom:3vw;
+
+}
 @media screen and (max-width: 800px){
 
     .heading{
 	    font-size: 35px;
         line-height: 40px;
+    }
+    .heading.small{
+    
+        font-size: 25px;
+        line-height: 30px;
+        padding-left: 2vw;
     }
     .step img{
         margin-top:10vw;
