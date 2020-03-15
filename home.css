@@ -54,30 +54,7 @@
 }
 
 #portfolio .btn{
-	display: inline-block;
-	cursor: pointer;
-    height: 1.5vw;
-    margin-bottom: 2em;
-    padding-top:1vw;
-    padding-bottom:1vw;  
-    padding-left:1.5vw;
-    padding-right:1.5vw;
-	background: #FFFFFF;
-    box-shadow: 3px 4px 0px #847DFF;
-    border-radius: 5px;
-	vertical-align: top;
-}
-#portfolio .btn span{
-    font-family: Ubuntu;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 1.2vw;
-    line-height: 1.5vw;
-    align-items: center;
-    text-align: center;
-    vertical-align:top;
-    /* Dark purple */
-    color: #20124D;
+	width:30vw;
 }
 #portfolio{
 	text-align: center;
@@ -85,76 +62,9 @@
 .slide_viewer{
 	box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.5);
 }
-.col_desc{
-	display: inline-block;
-	margin-top:5vw;
-	margin-left: 6.25vw;
-	width:93.75vw;
-	margin-bottom: 5vw;
-}
-.txt_col{
-	width:25vw;
-	margin-right:6.25vw;
-	float:left;
-	text-align:center;
-}
-.txt_col .btn {
-    height: 1.5vw;
-    margin-bottom: 2em;
-    padding-top:1vw;
-    padding-bottom:1vw;  
-    padding-left:1.5vw;
-    padding-right:1.5vw;
-	background: #FFFFFF;
-    box-shadow: 3px 4px 0px #847DFF;
-    border-radius: 5px;
-	display:inline-block;
-	margin-top: 2vw;
-	width:15vw;cursor: pointer;
-}
-.txt_col .btn:hover{
-	transition-property: all;
-	transition-duration: .05s;
-	transition-timing-function: ease-in;
-	margin-left:5px;
-	margin-top:calc(2vw + 4px);
-	margin-bottom:calc(2em - 4px);
-	box-shadow: 0px 0px 0px #847DFF;
-}
-.txt_col .btn span{
-    font-family: Ubuntu;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 1.2vw;
-    line-height: 1.5vw;
-    align-items: center;
-    text-align: center;
-    vertical-align:top;
-    /* Dark purple */
-    
-    color: #20124D;
-}
-.description{
-	text-align: justify;
-	font-family: Ubuntu;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 18px;
-	line-height: 21px;
-	color: #FFFFFF;
-}
 #showcase{
 	height:100vw;
 	margin-bottom:-48vw;
-}
-#portfolio .btn:hover{
-	transition-property: all;
-	transition-duration: .05s;
-	transition-timing-function: ease-in;
-	margin-left:5px;
-	margin-top:4px;
-	margin-bottom:calc(2em - 4px);
-	box-shadow: 0px 0px 0px #847DFF;
 }
 @media screen and (max-width: 1000px){
 
@@ -218,52 +128,8 @@
 	background-color: #7b7b7b;
 }
 #portfolio .btn{
-    height:auto;
-    cursor: pointer;
-    margin-bottom: 2em;
-	padding-top:3.5vw;
-	margin-top:0vw;
-    padding-bottom:3vw;  
-    padding-left:4vw;
-	padding-right:4vw;
-	margin-left:10%;
-	margin-right:10%;
-}
-#portfolio .btn span{
-    font-size:20px;
-	vertical-align: unset ;
-}
-.txt_col {
-    float: none !important;
-	width: 100%;
-	margin-top:8vw;
-    /* margin-left: 15vw; */
-    /* margin-right: 15vw; */
-}
-.col_desc {
-    margin-left: 0vw;
-    text-align: center;
-    width: 80vw;
-    margin-left: 10vw;
-    margin-right: 10vw;
-}
-.txt_col .btn{
-	width: auto;
-    height:auto;
-    cursor: pointer;
-    margin-bottom: 2em;
-	padding-top:3vw;
-	margin-top:6vw;
-    padding-bottom:2.5vw;  
-    padding-left:2vw;
-    padding-right:2vw;
-}
-.txt_col .btn span{
-    font-size:20px;
-	vertical-align: unset ;
-}
-.description span{
-	font-size: 20px;
-    line-height: normal;
+	width:auto;
+	margin-left:10vw;
+	margin-right:10vw;
 }
 }

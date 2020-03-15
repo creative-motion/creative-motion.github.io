@@ -22,20 +22,8 @@ body {
 	margin: 0;
 	overflow-x: hidden;
 	background: var(--colorDarkBG);
-
-	font-family: "Open Sans", sans-serif, FontAwesome;
 	color: white;
 	overflow: hidden;
-}
-/*
-a {
-	display: inline;
-	text-decoration: initial;
-	-color: inherit;
-}*/
-
-.page {
-	padding-top: 2em;
 }
 
 #menu {
@@ -145,34 +133,8 @@ a {
 	background-color: var(--colorDarkContent);
 }
 
-
-.cmbtn {
-	display: block;
-
-	width: 80%;
-	margin: 0.8em 10%;
-
-	padding: .5em;
-	border-radius: 5px;
-
-	text-align: center;
-
-	background-color: var(--colorDarkBG);
-	color: white;
-
-	background-position: center;
-	background-size: 110% auto;
-	transition: background-size 150ms, box-shadow 150ms;
-	box-shadow: inset 0px 0px 0px rgba(0,0,0,0.5), 0 2px 2px 0 rgba(0,0,0,0.14),0 1px 5px 0 rgba(0,0,0,0.12),0 3px 1px -2px rgba(0,0,0,0.2);
-}
-
-.cmbtn:hover {
-	background-size: 100% auto;
-/*	box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5), 0 3px 3px 0 rgba(0,0,0,0.14),0 1px 7px 0 rgba(0,0,0,0.12),0 3px 1px -1px rgba(0,0,0,0.2);*/
-}
-
-
 #footer {
+	font-family: "Open Sans";
 	font-size: 13px;
 	background-color: var(--colorLightBG);
 	color: var(--colorLightContent);
@@ -180,15 +142,7 @@ a {
 	padding: 1em;
 }
 
-.scrollToTop {
-	position: absolute;
-	right: 2em;
-	font-size: 2em;
-}
 
-.grecaptcha-badge {
-	display: none;
-} 
 .heading{
 	text-shadow: 1px 3px 0px #847DFF;
 	font-family: 'Ubuntu';
@@ -202,6 +156,28 @@ a {
   }
 
 
+.col_desc{
+	display: inline-block;
+	margin-top:5vw;
+	margin-left: 6.25vw;
+	width:93.75vw;
+	margin-bottom: 5vw;
+}
+.txt_col{
+	width:25vw;
+	margin-right:6.25vw;
+	float:left;
+	text-align:center;
+}
+.description{
+	text-align: justify;
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	color: #FFFFFF;
+}
 @media screen and (max-width: 1000px){
 #titlePage {
 	width: 100vw;
@@ -211,7 +187,7 @@ a {
 	font-size: 3.2vh;
 	line-height: 3.8vh;
   }
-  #footer {
+#footer {
 	font-size: 10px;
 	background-color: var(--colorLightBG);
 	color: var(--colorLightContent);
@@ -225,5 +201,21 @@ a {
 	 
 	font-size: 3vmin;
 	margin-top: 3.5vmin;
+ }
+ .txt_col {
+	 float: none !important;
+	 width: 100%;
+	 margin-top:8vw;
+ }
+ .col_desc {
+	 margin-left: 0vw;
+	 text-align: center;
+	 width: 80vw;
+	 margin-left: 10vw;
+	 margin-right: 10vw;
+ }
+ .description span{
+	 font-size: 20px;
+	 line-height: normal;
  }
 }

@@ -1,38 +1,6 @@
-.btn {
-    height: 1.5vw;
-    margin-bottom: 2em;
-    padding-top:1vw;
-    padding-bottom:1vw;  
-    padding-left:1.5vw;
-    padding-right:1.5vw;
-	background: #FFFFFF;
-    box-shadow: 3px 4px 0px #847DFF;
-    border-radius: 5px;
-	display:inline-block;
-	margin-top: 2vw;
-    width:15vw;cursor: pointer;
-    text-align: center;
-    
-}
-.btn:hover{
-	transition-property: all;
-	transition-duration: .05s;
-	transition-timing-function: ease-in;
-	margin-left:5px;
-	margin-top:calc(2vw + 4px);
-	margin-bottom:calc(2em - 4px);
-	box-shadow: 0px 0px 0px #847DFF;
-}
-.btn span{
+:root{
     font-family: Ubuntu;
-    font-style: normal;
     font-weight: bold;
-    font-size: 1.2vw;
-    line-height: 1.5vw;
-    align-items: center;
-    text-align: center;
-    vertical-align:top;
-    color: #20124D;
 }
 .colls{
     display: inline-block;
@@ -65,9 +33,6 @@
     background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/blinkr-btn.jpg);
     z-index:100;
     text-align:justify;
-    font-family: Ubuntu;
-    font-style: normal;
-    font-weight: bold;
     font-size: 1.7vw;
     line-height: 2.5vw;
     padding-left: 2vw;

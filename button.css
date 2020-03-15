@@ -1,0 +1,55 @@
+.btn {
+    height: 1.5vw;
+    font-family: Ubuntu;
+    font-weight:bold;
+    margin-bottom: 2em;
+    padding-top:1vw;
+    padding-bottom:1vw;  
+    padding-left:1.5vw;
+    padding-right:1.5vw;
+	background: #FFFFFF;
+    box-shadow: 3px 4px 0px #847DFF;
+    border-radius: 5px;
+	display:inline-block;
+	margin-top: 2vw;
+    width:15vw;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.btn:hover{
+	transition-property: all;
+	transition-duration: .05s;
+	transition-timing-function: ease-in;
+	margin-left:5px;
+	margin-top:calc(2vw + 4px);
+	margin-bottom:calc(2em - 4px);
+	box-shadow: 0px 0px 0px #847DFF;
+}
+.btn span{
+    font-size: 1.2vw;
+    line-height: 1.5vw;
+    align-items: center;
+    text-align: center;
+    vertical-align:top;
+    color: #20124D;
+}
+@media screen and (max-width: 1000px){
+    .btn span{
+        font-size:20px;
+        line-height: 27px;
+        vertical-align: unset ;
+    }
+      
+    .btn{
+        height:auto;
+        width:auto;
+        cursor: pointer;
+        margin-bottom: 2em;
+        padding-top:1.8vh;
+        padding-bottom:1.8vh;  
+        padding-left:4vw;
+        padding-right:4vw;
+    }
+}
