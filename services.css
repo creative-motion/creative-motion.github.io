@@ -43,16 +43,21 @@
     .card_elem{
         width:80vw;
         margin-left:10vw;
-        height:40vw;
+        height:50vw;
     }
     .card .heading{
-        padding-top:21vw;
+        padding-top:20vw;
         margin-bottom:1vw;
     }
     .card_overlay{
+        height:44vw;
+        margin-top: -50vw;
         font-size: 20px;
         line-height: 25px;
         padding-left: 5vw;
         padding-right: 5vw;
+    }
+    .card{
+        height:50vw;
     }
 }
