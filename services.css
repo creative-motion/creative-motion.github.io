@@ -9,30 +9,30 @@
     margin-left:2.5vw;
     float:left;
     margin-top:2.5vw;
-    height:40vw;
+    height:30vw;
 }
 .card{ 
     border-radius:10px;
     background:linear-gradient(90deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), url(img/blinkr-btn.jpg);
-    height:40vw;
+    height:30vw;
     text-align:center;
 }
 .card .heading{
-    padding-top:30vw;
+    padding-top:20vw;
     margin-bottom:0;
 }
 .card_overlay{
-    font-family: Ubuntu;
+    font-family: "Open Sans";
     font-weight: bold;
-    margin-top: -40vw;
-    height:34vw;
+    margin-top: -30vw;
+    height:24vw;
     position: relative;
     border-radius:10px;    
     background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/blinkr-btn.jpg);
     z-index:100;
     text-align:justify;
-    font-size: 1.7vw;
-    line-height: 2.5vw;
+    font-size: 1.2vw;
+    line-height: 2vw;
     padding-left: 2vw;
     padding-right:2vw;
     padding-top:3vw;

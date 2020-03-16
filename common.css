@@ -3,13 +3,20 @@
 	--colorDarkContent: #847dff;
 	--colorLightBG: #362a5f;
 	--colorLightContent: #a487ff;
-
-	--scrollTop: 0px;
 }
 ::-webkit-scrollbar {
-	width: 0px;
-	background: transparent; /* make scrollbar transparent */
+  width: 5px;
 }
+::-webkit-scrollbar-track {
+  background: #362a5f; 
+}
+::-webkit-scrollbar-thumb {
+  background: #847dff; 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a487ff; 
+}
+
 html { 
 	margin:0;
 	padding:0;
@@ -25,7 +32,10 @@ body {
 	color: white;
 	overflow: hidden;
 }
-
+a{
+	text-decoration: none;
+	color:white;
+}
 #menu {
 	display: inline-block;
 	position: absolute;
@@ -40,7 +50,6 @@ body {
 
 #menu a {
 	margin-bottom: var(--aaaaaaa);
-	text-decoration: none;
 	color: #847DFF;
 }
 
