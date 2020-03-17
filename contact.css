@@ -1,0 +1,41 @@
+#container{
+    width:100%;
+    display:inline-block;
+    margin-top:-250px;
+}
+#location{
+    width:90vw;
+    padding-left:5vw; 
+}
+.heading{
+    text-align:left;
+}
+.large{
+    font-size:40px;
+}
+#map {
+    border-radius: 10px;
+    border: 5px solid white;
+    height: 400px; 
+    width: 100%;  
+    box-shadow: 3px 4px 0px 3px #847DFF;
+}
+#social{
+    padding-left:5vw; 
+    width:95vw;
+    height:auto;
+    display:inline-block;
+}
+
+.btn img{
+    height:40px;
+    width:40px;
+    height:auto;
+    float:left;
+}
+a.btn{
+    height:auto;
+    width:20vw;
+    margin-right:8vw;
+    float:left;
+}

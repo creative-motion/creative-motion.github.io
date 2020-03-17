@@ -63,7 +63,7 @@
     margin-bottom:3vw;
 
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width: 1000px){
 
     .heading{
 	    font-size: 35px;

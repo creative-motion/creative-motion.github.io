@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <title>Creative Motion</title>
+    <meta name="description"
+        content="Creative Motion is a young team of techies with a passion for technology and innovation, working on various tech projects to help shape the world of tomorrow." />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu:400,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="lang.css" />
+    <link rel="stylesheet" href="common.css" />
+    <link rel="stylesheet" href="art.css" />
+    <link rel="stylesheet" href="contact.css" />
+    <link rel="stylesheet" href="button.css" />
+
+    <script src="js\lang.js" defer></script>
+    <script src="js\members.js" defer></script>
+    <script src="js\tooltip.js"></script>
+    <script src="js\contact-form.js" defer></script>
+    <script src="js\modal.js" defer></script>
+    <script src="js\alertworkaround.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136710821-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-136710821-1');
+    </script>
+</head>
+
+
+<body class="langRo" id="top">
+    <div id="menu">
+        <a href="index.html" id="logo_a">
+            <div id="logo">
+                <script>$(function () { $("#logo_m").load("cm.svg"); });</script>
+                <div id="logo_m"></div>
+                <div id="logo-text">CREATIVE MOTION</div>
+            </div>
+        </a>
+        <div id="menu_links">
+            <a href="index.html" data-smoothscroll><span class="ro">Acasă</span><span class="en">Home</span></a>
+            <a href="echipa.html" data-smoothscroll><span class="ro">Echipa noastră</span><span class="en">Our
+                    team</span></a>
+            <a href="dev_cycle.html" data-smoothscroll><span class="ro">Procesul nostru</span><span class="en">Our dev
+                    process</span></a>
+            <a href="services.html" data-smoothscroll><span class="ro">Servicii</span><span
+                    class="en">Services</span></a>
+            <a href="contact.html" data-smoothscroll><span class="ro">Contact</span><span class="en">Contact</span></a>
+            <a href="javascript:setLang('ro')">RO</a>/<a class="no_margin" href="javascript:setLang('en')">EN</a>
+        </div>
+    </div>
+    <div id="titlePage">
+        <div class="art-layer">
+            <!-- <img src="img\corgi.svg" id="corgi" class="hide-on-small-only" /> -->
+            <!-- <img src="img\skater.svg" id="parallax-skater" class="hide-on-small-only" />
+            <img src="img\stars.svg" id="parallax-stars" /> -->
+            <!-- <img src="img\astronaut.svg" id="parallax-astronaut" /> -->
+        </div>
+        <div id="motto"><span class="magic-underline">CONTACT</span> US
+            <!-- <div id="submotto">The place where fresh ideas become your favorite tech</div> -->
+        </div>
+    </div>
+    <div id="container">
+        <div id="social">
+            <div class="heading large">Get in touch!</div>
+            <a class="btn"><img src="icons/facebook.png" />
+                <span>
+                <span class="ro">Facebook</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span></br>
+                <span class="ro">Creative Motion</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span>
+                </span>
+            </a>
+            <a class="btn"><img src="icons/facebook.png" />
+                <span>
+                <span class="ro">Facebook</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span></br>
+                <span class="ro">Creative Motion</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span>
+                </span>
+            </a>
+            <a class="btn"><img src="icons/facebook.png" />
+                <span>
+                <span class="ro">Facebook</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span></br>
+                <span class="ro">Creative Motion</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span>
+                </span>
+            </a>
+            <a class="btn"><img src="icons/facebook.png" />
+                <span>
+                <span class="ro">Facebook</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span></br>
+                <span class="ro">Creative Motion</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span>
+                </span>
+            </a>
+            <a class="btn"><img src="icons/facebook.png" />
+                <span>
+                <span class="ro">Facebook</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span></br>
+                <span class="ro">Creative Motion</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span>
+                </span>
+            </a>
+            <a class="btn"><img src="icons/facebook.png" />
+                <span>
+                <span class="ro">Facebook</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span></br>
+                <span class="ro">Creative Motion</span>
+                <span class="en">dhsjdfghjkldfghjkldhs</span>
+                </span>
+            </a>
+        </div>
+        <div id="location">
+            <div class="heading large">Find us!</div></br>
+            <div class="heading">Str. Logofatul Luca Stroici nr. 16A</br>Bucuresti, Romania</div>
+            <div id="map"></div>
+            <script>
+                function initMap() {
+                    var work = { lat: 44.4412803, lng: 26.1099495 };
+                    var map = new google.maps.Map(
+                        document.getElementById('map'),
+                        { zoom: 14,
+                        center: work, 
+                        fullscreenControl:false,
+                        zoomControl:false,
+                        mapTypeControl:false,
+                        streetViewControl:false,
+                        gestureHandling: 'greedy'
+                    });
+                    var marker = new google.maps.Marker({ position: work, map: map });
+                    //var marker = new google.maps.Marker({ position:work, icon:'cm.svg', scale:0.3});
+                    marker.setMap(map); 
+                }
+            </script>
+        </div>
+    </div>
+    <div id="footer">
+      Made with ❤ by the creative motion team
+    </div>  
+</body>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDW0c9pw_XDRr1AyAv5cSQKX8MFk7IJRIg&callback=initMap"></script>
+</html>
