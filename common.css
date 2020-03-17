@@ -3,6 +3,7 @@
 	--colorDarkContent: #847dff;
 	--colorLightBG: #362a5f;
 	--colorLightContent: #a487ff;
+	--logoBackground:#2E1F5F;
 }
 ::-webkit-scrollbar {
   width: 5px;
@@ -16,7 +17,6 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #a487ff; 
 }
-
 html { 
 	margin:0;
 	padding:0;
@@ -38,54 +38,57 @@ a{
 }
 #menu {
 	display: inline-block;
-	position: absolute;
+	position: fixed;
+	width:100%;	
+	background-color: #2E1F5F;
+	height:4.7vw;
 	z-index: 1;
-	top: 1em;
-	right: 2em;
-	text-align: right;
-	font-size: 1.8vmin;
-	line-height: 4vmin;
-	--aaaaaaa: 0.4em;
+	box-shadow: 0px 5px 7px 0px rgba(0,0,0,0.2);
 }
-
-#menu a {
-	margin-bottom: var(--aaaaaaa);
-	color: #847DFF;
+#menu_links{
+	float: right;
+	width: auto;
+	font-size: 1vw;
+	line-height: 1vw;
+	margin-top:1.85vw;
+	margin-right:1vw;
+	color: var(--colorLightContent);
 }
-
-#menu br {
-	margin-bottom: var(--aaaaaaa);
+#menu_links a {
+	color: var(--colorLightContent);
+	margin-left:2vw;
 }
-
-
-#titlePage {
-	width: 100vw;
-	min-height: 80vh;
+#menu_links a:hover{
+	color: white;
+	margin-left:2vw;
 }
-
+.no_margin{
+	margin-left:0 !important;
+}
+#logo_a{
+	float: left;
+	width:auto;
+}
 #logo {
-	position: relative;
-	left: 1em; top: 1em;	/* pseudo-margin */
-	font-size: 3vh;
-	line-height: 2em;
+	width:auto;
+	font-size: 2vw;
+	line-height: 2vw;
+	margin-left:10px;
+	margin-top: -2.4vw;
 }
 #logo #logo-text {
-	position: absolute;
-	display: inline-block;
-
 	font-family: "Ubuntu";
 	font-weight: bold;
+    margin-left:4.4vw;
 }
 #logo_m{
-    width:50px;
-    height:50px;
+    width:3.8vw;
+    height:3.8vw;
     color: rgba(0, 0, 0, 0);
-    display:inline-block;
-    margin-top:-52px;
-    margin-right:10px;
 }
 #logo_m svg{
-    width:50px;
+	margin-top:0.8vw;
+    width:3.8vw;
     height:auto;
 }
 #wheel {
@@ -95,7 +98,7 @@ a{
     display: inline-block;
     animation-play-state: paused;
 }
-#CM_x5F_1:hover #wheel{   
+#logo:hover #wheel{   
     animation-play-state: running;
 }
   
@@ -108,6 +111,10 @@ a{
 }
 }
 
+#titlePage {
+	width: 100vw;
+	min-height: 80vh;
+}
 #motto {
 	font-family: "Ubuntu";
 	font-weight: bold;
@@ -121,7 +128,7 @@ a{
 #submotto {
 	font-family: "Open Sans";
 	font-weight: bold;
-	color:#847DFF;
+	color:var(--colorDarkContent);
 	font-size: 2.3vmin;
 	margin-top: 3.5vmin;
 }
@@ -153,14 +160,14 @@ a{
 
 
 .heading{
-	text-shadow: 1px 3px 0px #847DFF;
+	text-shadow: 1px 3px 0px var(--colorDarkContent);
 	font-family: 'Ubuntu';
 	font-style: normal;
 	font-weight: bold;
 	font-size: 2.2vw;
 	line-height: 2.5vw;
 	text-align: center;
-	color: #FFFFFF;
+	color: white;
 	margin-bottom:2vh;
   }
 
@@ -185,7 +192,7 @@ a{
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
-	color: #FFFFFF;
+	color: white;
 }
 @media screen and (max-width: 1000px){
 #titlePage {

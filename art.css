@@ -1,7 +1,7 @@
 
 .art-layer {
 	position: absolute;
-	top: 0; left: 0;
+	top: 4vw; left: 0;
 	width: 100%; height: 85%;
 	z-index: -1;
 }
@@ -13,7 +13,7 @@
 
 #corgi {
 	left: 0;
-	bottom: -4vw;
+	bottom: 0vw;
 	width: 15vw;
 }
 
@@ -24,14 +24,14 @@
 }
 
 #parallax-stars {
-	top: 30vh;
+	top: 20vh;
 	transform: translateY(calc(var(--scrollTop) / 2));
 	right: 0;
 	width: 80vh;
 }
 
 #parallax-astronaut {
-	top: 50vh;
+	top: 30vh;
 	right: 0;
 	width: 40vw;
 }
