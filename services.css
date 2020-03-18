@@ -66,7 +66,7 @@
         margin-bottom:1vw;
     }
     .card_overlay{
-        height:calc(var(--cardheight) - 4vw);
+        height:calc(var(--cardheight) - 3.4vw);
         margin-top:calc(-1 * var(--cardheight));
         font-size: 15px;
         line-height: 20px;
