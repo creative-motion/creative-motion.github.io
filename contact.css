@@ -1,17 +1,18 @@
 #container{
     width:100%;
     display:inline-block;
-    margin-top:-250px;
+    margin-top:-400px;
 }
 #location{
     width:90vw;
-    padding-left:5vw; 
+    margin-left:5vw; 
+    margin-bottom: 50px;
 }
 .heading{
     text-align:left;
 }
 .large{
-    font-size:40px;
+    font-size:43px;
 }
 #map {
     border-radius: 10px;
@@ -21,21 +22,32 @@
     box-shadow: 3px 4px 0px 3px #847DFF;
 }
 #social{
-    padding-left:5vw; 
+    margin-left:7.75vw; 
     width:95vw;
     height:auto;
     display:inline-block;
+    margin-bottom: 50px;
+}
+
+#social .heading{
+    margin-left: -2.75vw;
 }
 
 .btn img{
-    height:40px;
-    width:40px;
+    height:3vw;
+    width:3vw;
     height:auto;
     float:left;
 }
 a.btn{
     height:auto;
     width:20vw;
-    margin-right:8vw;
+    margin-right:7.75vw;
     float:left;
+}
+a.btn:hover{
+	transition-property: all;
+	transition-duration: .05s;
+	transition-timing-function: ease-in;
+	margin-right:calc(7.75vw - 5px);
 }
