@@ -164,8 +164,8 @@ a{
 	font-family: 'Ubuntu';
 	font-style: normal;
 	font-weight: bold;
-	font-size: 27px;
-	line-height: 32px;
+	font-size: 45px;
+	line-height: 50px;
 	text-align: center;
 	color: white;
 	margin-bottom:2vh;
@@ -187,11 +187,10 @@ a{
 }
 .description{
 	text-align: justify;
-	font-family: Ubuntu;
-	font-style: normal;
+	font-family: 'Ubuntu';
 	font-weight: 400;
-	font-size: 18px;
-	line-height: 21px;
+	font-size: 20px;
+	line-height: 24px;
 	color: white;
 }
 @media screen and (max-width: 1000px){
