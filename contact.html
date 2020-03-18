@@ -70,7 +70,7 @@
     <div id="container">
         <div id="social">
             <div class="heading large">Get in touch!</div>
-            <a class="btn"><img src="icons/facebook.png" />
+            <a class="btn" href="https://www.facebook.com/CreativeMotionPC/" target="_blank"><img src="icons/facebook.png" />
                 <span>
                 <span class="ro">Facebook</span>
                 <span class="en">Facebook</span></br>
@@ -78,23 +78,20 @@
                 <span class="en">Creative Motion</span>
                 </span>
             </a>
-            <a class="btn"><img src="icons/phone.png" />
+            <a class="btn" href="tel:+40728852666" ><img src="icons/phone.png" />
                 <span>
                 <span class="ro">Telefon</span>
                 <span class="en">Phone</span></br>
-                <span class="ro">+40728828928</span>
-                <span class="en">+40728828928</span>
+                <span>+40728852666</span>
                 </span>
             </a>
-            <a class="btn"><img src="icons/instagram.png" />
+            <a class="btn" href="https://www.instagram.com/creative___motion/" target="_blank"><img src="icons/instagram.png" />
                 <span>
-                <span class="ro">Instagram</span>
-                <span class="en">Instagram</span></br>
-                <span class="ro">Creative Motion</span>
-                <span class="en">Creative Motion</span>
+                <span>Instagram</span></br>
+                <span>@creative___motion</span>
                 </span>
             </a>
-            <a class="btn"><img src="icons/whatsapp.png" />
+            <a class="btn" href="https://wa.me/40728852777" target="_blank"><img src="icons/whatsapp.png" />
                 <span>
                 <span class="ro">Whatsapp</span>
                 <span class="en">Whatsapp</span></br>
@@ -102,7 +99,7 @@
                 <span class="en">Creative Motion</span>
                 </span>
             </a>
-            <a class="btn"><img src="icons/mail.png" />
+            <a class="btn" href="mailto:hjdjshdjhsd@gmail.com" target="_blank"><img src="icons/mail.png" />
                 <span>
                 <span class="ro">Email</span>
                 <span class="en">Email</span></br>
@@ -110,7 +107,7 @@
                 <span class="en">dhsjdfghjkldfghjkldhs</span>
                 </span>
             </a>
-            <a class="btn"><img src="icons/linkedin.png" />
+            <a class="btn" href="https://www.linkedin.com/company/creative-motion-ro/about/" target="_blank"><img src="icons/linkedin.png" />
                 <span>
                 <span class="ro">LinkedIn</span>
                 <span class="en">LinkedIn</span></br>
@@ -125,7 +122,7 @@
             <div id="map"></div>
             <script>
                 function initMap() {
-                    var work = { lat: 44.4412803, lng: 26.1099495 };
+                    var work = { lat: 44.4412803, lng: 26.1108698 };
                     var map = new google.maps.Map(
                         document.getElementById('map'),
                         { zoom: 14,
@@ -136,7 +133,7 @@
                         streetViewControl:false,
                         gestureHandling: 'greedy'
                     });
-                    var marker = new google.maps.Marker({ position: work, map: map });
+                    var marker = new google.maps.Marker({title:"Creative Motion", position: work, map: map });
                     //var marker = new google.maps.Marker({ position:work, icon:'cm.svg', scale:0.3});
                     marker.setMap(map); 
                 }
