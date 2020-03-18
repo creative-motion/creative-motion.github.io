@@ -16,9 +16,14 @@
     background:linear-gradient(90deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), url(img/blinkr-btn.jpg);
     height:30vw;
     text-align:center;
+    position: relative;
 }
 .card .heading{
-    padding-top:20vw;
+    position: absolute;
+    bottom:7vw;
+    width:90%;
+    margin-left:5%;
+    //padding-top:20vw;
     margin-bottom:0;
 }
 .card_overlay{
@@ -37,6 +42,12 @@
     padding-right:2vw;
     padding-top:3vw;
     padding-bottom:3vw;
+}
+
+.card .btn{
+    position: absolute;
+    bottom:0;
+    left:20%;
 }
 
 @media screen and (max-width: 1000px){
