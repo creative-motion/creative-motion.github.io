@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="art.css" />
     <link rel="stylesheet" href="contact.css" />
     <link rel="stylesheet" href="button.css" />
+    <link rel="stylesheet" href="mobile_menu.css" />
 
     <script src="js\lang.js" defer></script>
     <script src="js\members.js" defer></script>
@@ -37,25 +38,39 @@
 
 
 <body class="langRo" id="top">
-    <div id="menu">
-        <a href="index.html" id="logo_a">
-            <div id="logo">
-                <script>$(function () { $("#logo_m").load("cm.svg"); });</script>
-                <div id="logo_m"></div>
-                <div id="logo-text">CREATIVE MOTION</div>
-            </div>
-        </a>
-        <div id="menu_links">
-            <a href="index.html" data-smoothscroll><span class="ro">Acasă</span><span class="en">Home</span></a>
-            <a href="echipa.html" data-smoothscroll><span class="ro">Echipa noastră</span><span class="en">Our
-                    team</span></a>
-            <a href="dev_cycle.html" data-smoothscroll><span class="ro">Procesul nostru</span><span class="en">Our dev
-                    process</span></a>
-            <a href="services.html" data-smoothscroll><span class="ro">Servicii</span><span
-                    class="en">Services</span></a>
-            <a href="contact.html" data-smoothscroll><span class="ro">Contact</span><span class="en">Contact</span></a>
-            <a href="javascript:setLang('ro')">RO</a>/<a class="no_margin" href="javascript:setLang('en')">EN</a>
-        </div>
+    <div id="menu" class="desk_only">
+      <a href="index.html" class="logo_a"><div class="logo">
+        <script>$(function(){$(".logo_m.d").load("cm.svg");});</script>
+        <div class="logo_m d"></div>
+        <div class="logo-text">CREATIVE MOTION</div>
+      </div></a>
+      <div id="menu_links">
+        <a href="index.html"><span class="ro">Acasă</span><span class="en">Home</span></a>
+        <a href="echipa.html"><span class="ro">Echipa noastră</span><span class="en">Our team</span></a>
+        <a href="dev_cycle.html"><span class="ro">Procesul nostru</span><span class="en">Our dev process</span></a>
+        <a href="services.html"><span class="ro">Servicii</span><span class="en">Services</span></a>
+        <a href="contact.html"><span class="ro">Contact</span><span class="en">Contact</span></a>
+        <a href="javascript:setLang('ro')">RO</a>/<a class="no_margin" href="javascript:setLang('en')">EN</a>
+      </div>
+    </div>
+    <a href="index.html" class="logo_a mobile_only"><div class="logo">
+      <script>$(function(){$(".logo_m.m").load("cm.svg");});</script>
+      <div class="logo_m m"></div>
+      <div class="logo-text">CREATIVE MOTION</div>
+    </div></a>
+    <div id="menu_mobile" class="mobile_only">
+      <input type="checkbox" />
+      <span class="line"></span>
+      <span class="line"></span>
+      <span class="line"></span>
+      <ul id="menu_links_m">
+        <a href="javascript:setLang('ro')">RO</a>/<a class="no_margin" href="javascript:setLang('en')">EN</a></br>
+        <a href="index.html"><span class="ro">Acasă</span><span class="en">Home</span></a></br>
+        <a href="echipa.html"><span class="ro">Echipa noastră</span><span class="en">Our team</span></a></br>
+        <a href="dev_cycle.html"><span class="ro">Procesul nostru</span><span class="en">Our process</span></a></br>
+        <a href="services.html"><span class="ro">Servicii</span><span class="en">Services</span></a></br>
+        <a href="contact.html"><span class="ro">Contact</span><span class="en">Contact</span></a>
+      </ul>
     </div>
     <div id="titlePage">
         <div class="art-layer">
