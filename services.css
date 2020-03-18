@@ -13,7 +13,6 @@
 }
 .card{ 
     border-radius:10px;
-    background:linear-gradient(90deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), url(img/blinkr-btn.jpg);
     height:30vw;
     text-align:center;
     position: relative;
@@ -32,7 +31,6 @@
     height:24vw;
     position: relative;
     border-radius:10px;    
-    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/blinkr-btn.jpg);
     z-index:100;
     text-align:justify;
     font-size: 1.2vw;
@@ -48,6 +46,38 @@
     bottom:0;
     left:20%;
 }
+
+#C_3Dprinting, #CO_3Dprinting{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/3dprinting.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#C_server, #CO_server{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/servers.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#C_podcast, #CO_podcast{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/podcast.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#C_events, #CO_events{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/courses.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#C_polistiren, #CO_polistiren{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/polystyrene.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#C_dev{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/dev.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
 
 @media screen and (max-width: 1000px){
     :root{
