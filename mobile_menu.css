@@ -1,0 +1,129 @@
+.mobile_only {
+    display: none ;
+}
+
+.desk_only {
+    display: block !important;
+}
+
+@media screen and (max-width: 1000px) {
+    .mobile_only {
+        display: block;
+    }
+    .desk_only {
+        display: none !important;
+    }
+    #menu_mobile {  
+        font-family: 'Open Sans';
+        color: #a487ff;
+        line-height: 45px;
+        font-size: 22px;
+        display: block;
+        position: fixed;
+        top: -30px;
+        left: calc(98vw - 50px);
+        z-index: 1;
+        -webkit-user-select: none;
+        user-select: none;
+        background-color: #2E1F5F;
+        box-shadow: -2px 5px 7px 0px rgba(0,0,0,0.2);
+        padding:15px;
+        border-radius:10px;
+        padding-right:50px;
+        padding-top:50px;
+    }
+    #menu_mobile a {
+        color: #a487ff;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    #menu_mobile a:hover {
+        color: white;
+    }
+    #menu_mobile input {
+        display: block;
+        width: 40px;
+        height: 32px;
+        position: absolute;
+        top: 40px;
+        left: 2px;
+        cursor: pointer;
+        opacity: 0;
+        /* hide this */
+        z-index: 2;
+        /* and place it over the hamburger */
+        -webkit-touch-callout: none;
+    }
+    /*
+ * Just a quick hamburger
+ */
+    #menu_mobile .line {
+        display: block;
+        width: 33px;
+        height: 4px;
+        margin-bottom: 5px;
+        position: relative;
+        background: #cdcdcd;
+        border-radius: 3px;
+        z-index: 1;
+        transform-origin: 4px 0px;
+        transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0), opacity 0.55s ease;
+    }
+    #menu_mobile .line:first-child {
+        transform-origin: 0% 0%;
+    }
+    #menu_mobile .line:nth-last-child(2) {
+        transform-origin: 0% 100%;
+    }
+    /* 
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+    #menu_mobile input:checked~.line {
+        opacity: 1;
+        transform: rotate(45deg) translate(-2px, -1px);
+    }
+    /*
+ * But let's hide the middle one.
+ */
+    #menu_mobile input:checked~.line:nth-last-child(3) {
+        opacity: 0;
+        transform: rotate(0deg) scale(0.2, 0.2);
+    }
+    /*
+ * Ohyeah and the last one should go the other direction
+ */
+    #menu_mobile input:checked~.line:nth-last-child(2) {
+        transform: rotate(-45deg) translate(0, -1px);
+    }
+    /*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+    #menu_links_m {
+        position: fixed;
+        width: 180px;
+        margin: -100px 0 0 -150px;
+        padding: 50px;
+        padding-top: 125px;
+        padding-left:5px;
+        background: #2E1F5F;
+        box-shadow: -2px 5px 7px 0px rgba(0,0,0,0.2);
+        border-radius:10px;
+        list-style-type: none;
+        -webkit-font-smoothing: antialiased;
+        /* to stop flickering of text in safari */
+        transform-origin: 0% 0%;
+        transform: translate(100%, 0);
+        display:block;
+        transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0);
+        float:right;
+        text-align:right;
+    }
+    /*
+ * And let's slide it in from the left
+ */
+    #menu_mobile input:checked~#menu_links_m {
+        transform: none;
+    }
+}
