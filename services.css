@@ -23,7 +23,6 @@
     bottom:7vw;
     width:90%;
     margin-left:5%;
-    //padding-top:20vw;
     margin-bottom:0;
 }
 .card_overlay{
@@ -51,27 +50,40 @@
 }
 
 @media screen and (max-width: 1000px){
+    :root{
+        --cardheight:500px;
+    }
     .colls{
         margin-top:-100px;
     }
     .card_elem{
         width:80vw;
         margin-left:10vw;
-        height:50vw;
+        height:var(--cardheight);
     }
     .card .heading{
         padding-top:20vw;
         margin-bottom:1vw;
     }
     .card_overlay{
-        height:44vw;
-        margin-top: -50vw;
+        height:calc(var(--cardheight) - 4vw);
+        margin-top:calc(-1 * var(--cardheight));
         font-size: 15px;
         line-height: 20px;
         padding-left: 5vw;
         padding-right: 5vw;
     }
     .card{
-        height:50vw;
+        height:var(--cardheight);
+    }
+    .card .btn{
+        bottom:0;
+        left:7.75vw;
+        width:70%;
+    }
+    .card .heading{
+        bottom:100px;
+        width:90%;
+        margin-left:5%;
     }
 }
