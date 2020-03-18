@@ -215,10 +215,10 @@ a {
 
 @media screen and (max-width: 1000px) {
 	.logo_a{
-		margin-top:-20px;
+		margin-top:-15px;
 	}
 	.logo {
-		font-size: 35px;
+		font-size: 30px;
 		line-height: 10px;
 		margin-left: 15px;
 	}
@@ -226,28 +226,24 @@ a {
 	.logo .logo-text {
 		font-family: "Ubuntu";
 		font-weight: bold;
-		margin-left: 85px;
+		margin-left: 70px;
 		color: white;
 	}
 	
 	.logo_m {
-		width: 80px;
-		height: 80px;
+		width: 60px;
+		height: 60px;
 		color: rgba(0, 0, 0, 0);
 	}
 	
 	.logo_m svg {
-		margin-top: 35px;
-		width: 80px;
+		margin-top: 25px;
+		width: 60px;
 		height: auto;
 	}
 	#titlePage {
 		width: 100vw;
 		min-height: 60vh;
-	}
-	.heading {
-		font-size: 3.2vh;
-		line-height: 3.8vh;
 	}
 	#footer {
 		font-size: 10px;
