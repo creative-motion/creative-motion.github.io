@@ -78,12 +78,12 @@ a {
 	margin-left: 0 !important;
 }
 
-#logo_a {
+.logo_a {
 	float: left;
 	width: auto;
 }
 
-#logo {
+.logo {
 	width: auto;
 	font-size: 1.6vw;
 	line-height: 2vw;
@@ -91,19 +91,19 @@ a {
 	margin-top: -2vw;
 }
 
-#logo #logo-text {
+.logo .logo-text {
 	font-family: "Ubuntu";
 	font-weight: bold;
 	margin-left: 3.8vw;
 }
 
-#logo_m {
+.logo_m {
 	width: 3.3vw;
 	height: 3.3vw;
 	color: rgba(0, 0, 0, 0);
 }
 
-#logo_m svg {
+.logo_m svg {
 	margin-top: 0.6vw;
 	width: 3.3vw;
 	height: auto;
@@ -117,7 +117,7 @@ a {
 	animation-play-state: paused;
 }
 
-#logo:hover #wheel {
+.logo:hover #wheel {
 	animation-play-state: running;
 }
 
@@ -214,6 +214,33 @@ a {
 }
 
 @media screen and (max-width: 1000px) {
+	.logo_a{
+		margin-top:-20px;
+	}
+	.logo {
+		font-size: 35px;
+		line-height: 10px;
+		margin-left: 15px;
+	}
+	
+	.logo .logo-text {
+		font-family: "Ubuntu";
+		font-weight: bold;
+		margin-left: 85px;
+		color: white;
+	}
+	
+	.logo_m {
+		width: 80px;
+		height: 80px;
+		color: rgba(0, 0, 0, 0);
+	}
+	
+	.logo_m svg {
+		margin-top: 35px;
+		width: 80px;
+		height: auto;
+	}
 	#titlePage {
 		width: 100vw;
 		min-height: 60vh;
