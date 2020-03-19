@@ -48,32 +48,32 @@
 }
 
 #C_3Dprinting{
-    background:url(img/services/3dprinting.jpeg);
+    background:linear-gradient(60deg, rgba(0,0,0,0.8), rgba(0,0,0,0.2)), url(img/services/3dprinting.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
 #C_server{
-    background:url(img/services/servers.jpeg);
+    background:linear-gradient(60deg, rgba(0,0,0,0.8), rgba(0,0,0,0.2)), url(img/services/servers.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
 #C_podcast{
-    background:url(img/services/podcast.jpeg);
+    background:linear-gradient(60deg, rgba(0,0,0,0.8), rgba(0,0,0,0.2)), url(img/services/podcast.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
 #C_events{
-    background:url(img/services/courses.jpeg);
+    background:linear-gradient(60deg, rgba(0,0,0,0.8), rgba(0,0,0,0.2)), url(img/services/courses.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
 #C_polistiren{
-    background:url(img/services/polystyrene.jpeg);
+    background:linear-gradient(60deg, rgba(0,0,0,0.8), rgba(0,0,0,0.2)), url(img/services/polystyrene.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
 #C_dev{
-    background:url(img/services/dev.jpeg);
+    background:linear-gradient(60deg, rgba(0,0,0,0.8), rgba(0,0,0,0.2)), url(img/services/dev.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
