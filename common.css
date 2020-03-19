@@ -256,6 +256,9 @@ a {
 	#menu {
 		font-size: 3vmin;
 	}
+	#motto{
+		left: 50px;
+	}
 	#submotto {
 		font-size: 3vmin;
 		margin-top: 3.5vmin;
