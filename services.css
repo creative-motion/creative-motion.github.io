@@ -31,7 +31,7 @@
     height:24vw;
     position: relative;
     border-radius:10px;    
-    z-index:100;
+    z-index:1;
     text-align:justify;
     font-size: 1.2vw;
     line-height: 2vw;
