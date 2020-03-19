@@ -4,6 +4,8 @@
 	--colorLightBG: #362a5f;
 	--colorLightContent: #a487ff;
 	--logoBackground: #2E1F5F;
+	--lightText:white;
+	color: var(--lightText);
 }
 
 ::-webkit-scrollbar {
@@ -35,43 +37,40 @@ body {
 	margin: 0;
 	overflow-x: hidden;
 	background: var(--colorDarkBG);
-	color: white;
 	overflow: hidden;
 }
 
 a {
 	text-decoration: none;
-	color: white;
 }
 
 #menu {
-	display: inline-block;
-	position: fixed;
 	width: 100%;
+	height: 90px;
+	position: fixed;
 	background-color: #2E1F5F;
-	height: 4.7vw;
 	z-index: 100;
 	box-shadow: 0px 5px 7px 0px rgba(0, 0, 0, 0.2);
+	font-family: "Open Sans";
+	font-size: 17px;
+	line-height: 17px;
 }
 
 #menu_links {
 	float: right;
 	width: auto;
-	font-size: 1vw;
-	line-height: 1vw;
-	margin-top: 1.85vw;
-	margin-right: 1vw;
+	margin-top: 36px;
+	margin-right: 10px;
 	color: var(--colorLightContent);
 }
 
 #menu_links a {
 	color: var(--colorLightContent);
-	margin-left: 2vw;
+	margin-left: 20px;
 }
 
 #menu_links a:hover {
-	color: white;
-	margin-left: 2vw;
+	color: var(--lightText);
 }
 
 .no_margin {
@@ -80,32 +79,31 @@ a {
 
 .logo_a {
 	float: left;
-	width: auto;
 }
 
 .logo {
-	width: auto;
-	font-size: 1.6vw;
-	line-height: 2vw;
+	font-family: "Ubuntu";
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 30px;
 	margin-left: 15px;
-	margin-top: -2vw;
+	margin-top: -36px;
 }
 
 .logo .logo-text {
-	font-family: "Ubuntu";
-	font-weight: bold;
-	margin-left: 3.8vw;
+	margin-left: 75px;
+	color: var(--lightText);
 }
 
 .logo_m {
-	width: 3.3vw;
-	height: 3.3vw;
+	width: 65px;
+	height: 65px;
 	color: rgba(0, 0, 0, 0);
 }
 
 .logo_m svg {
-	margin-top: 0.6vw;
-	width: 3.3vw;
+	margin-top: 17px;
+	width: 65px;
 	height: auto;
 }
 
@@ -131,8 +129,7 @@ a {
 }
 
 #titlePage {
-	width: 100vw;
-	min-height: 80vh;
+	height: 80vh;
 }
 
 #motto {
@@ -146,11 +143,9 @@ a {
 
 #submotto {
 	font-family: "Open Sans";
-	font-weight: bold;
-	color:white;
 	text-shadow: 1px 2px 0px var(--colorDarkContent);
 	font-size: 2.3vmin;
-	margin-top: 3.5vmin;
+	margin-top: 1.5em;
 }
 
 .magic-underline {
@@ -181,12 +176,10 @@ a {
 .heading {
 	text-shadow: 1px 2px 0px var(--colorDarkContent);
 	font-family: 'Ubuntu';
-	font-style: normal;
 	font-weight: bold;
 	font-size: 45px;
 	line-height: 50px;
 	text-align: center;
-	color: white;
 	margin-bottom: 2vh;
 }
 
@@ -211,12 +204,12 @@ a {
 	font-weight: 400;
 	font-size: 20px;
 	line-height: 24px;
-	color: white;
+	color: var(--lightText);
 }
 
 @media screen and (max-width: 1000px) {
 	.logo_a{
-		margin-top:-15px;
+		margin-top:10px;
 	}
 	.logo {
 		font-size: 30px;
@@ -225,10 +218,7 @@ a {
 	}
 	
 	.logo .logo-text {
-		font-family: "Ubuntu";
-		font-weight: bold;
 		margin-left: 70px;
-		color: white;
 	}
 	
 	.logo_m {
@@ -243,14 +233,10 @@ a {
 		height: auto;
 	}
 	#titlePage {
-		width: 100vw;
-		min-height: 60vh;
+		height: 60vh;
 	}
 	#footer {
 		font-size: 10px;
-		background-color: var(--colorLightBG);
-		color: var(--colorLightContent);
-		text-align: center;
 		padding: 1em;
 	}
 	#menu {

@@ -15,14 +15,11 @@
 .heading{
     text-align:left;
     margin-left:0vw;
-	font-size: 3.3vw;
-	line-height: 3.7vw;
 }
 .heading.small{
-    
-	font-size: 2vw;
-    line-height: 2.3vw;
+    font-size:30px;
     padding-left: 2vw;
+    text-shadow: 0px 0px;
 }
 .step img{
     width:50%;
@@ -35,7 +32,8 @@
 	font-size: 20px;
 	line-height: 25px;
 	font-family: 'Open Sans';
-	font-weight: bold;
+	font-weight: 400;
+    text-align:left;
 }
 .step.right .step_txt{
     float: right;
@@ -60,20 +58,15 @@
 }
 .questions .short{
     margin-top:0;
-    margin-bottom:3vw;
+    margin-bottom:50px;
 
 }
 @media screen and (max-width: 1000px){
 
-    .heading{
-	    font-size: 35px;
-        line-height: 40px;
-    }
     .heading.small{
     
         font-size: 25px;
         line-height: 30px;
-        padding-left: 2vw;
     }
     .step img{
         margin-top:10vw;

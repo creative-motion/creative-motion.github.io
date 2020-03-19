@@ -21,7 +21,7 @@
         display: block;
         position: fixed;
         top: -30px;
-        left: calc(98vw - 50px);
+        left: calc(98vw - 65px);
         z-index: 1;
         -webkit-user-select: none;
         user-select: none;
@@ -103,7 +103,7 @@
     #menu_links_m {
         position: fixed;
         width: 180px;
-        margin: -100px 0 0 -150px;
+        margin: -100px 0 0 -170px;
         padding: 50px;
         padding-top: 125px;
         padding-left:5px;

@@ -107,8 +107,8 @@
     :root{
         --cardheight:500px;
     }
-    .colls{
-        margin-top:-100px;
+    #motto{
+        font-size:11vmin !important;
     }
     .card_elem{
         width:80vw;
