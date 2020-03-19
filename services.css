@@ -47,37 +47,61 @@
     left:20%;
 }
 
-#C_3Dprinting, #CO_3Dprinting{
-    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/3dprinting.jpeg);
+#C_3Dprinting{
+    background:url(img/services/3dprinting.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
-#C_server, #CO_server{
-    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/servers.jpeg);
+#C_server{
+    background:url(img/services/servers.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
-#C_podcast, #CO_podcast{
-    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/podcast.jpeg);
+#C_podcast{
+    background:url(img/services/podcast.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
-#C_events, #CO_events{
-    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/courses.jpeg);
+#C_events{
+    background:url(img/services/courses.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
-#C_polistiren, #CO_polistiren{
-    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/polystyrene.jpeg);
+#C_polistiren{
+    background:url(img/services/polystyrene.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
 #C_dev{
-    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/dev.jpeg);
+    background:url(img/services/dev.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
 }
-
+#CO_3Dprinting{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/3dprinting.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#CO_server{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/servers.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#CO_podcast{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/podcast.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#CO_events{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/courses.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#CO_polistiren{
+    background:linear-gradient(45deg, rgb(37, 40, 66), rgba(116, 100, 189, 0.7)), url(img/services/polystyrene.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
 
 @media screen and (max-width: 1000px){
     :root{
