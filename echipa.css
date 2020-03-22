@@ -1,14 +1,26 @@
 .circuit {
-    width:95vw;
-    padding-left:2.5vw;
+    width:60vw;
+    padding-left:20vw;
     margin-top: -10vw;
     color: rgba(0, 0, 0, 0);
 }
 .txt_col{
     width:40vw;
 }
+.st6{
+    font-family: 'Ubuntu'!important;
+    font-weight: bold !important;
+}
+.st23{
+    font-family: 'Ubuntu'!important;
+    //font-weight: bold !important;
+}
 @media screen and (max-width: 1000px){
     .txt_col {
         width: 100%;
+    }
+    .circuit{
+        padding-left:2.5vw;
+        width:95vw;
     }
 }
