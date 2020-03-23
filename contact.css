@@ -1,7 +1,7 @@
 #container{
     width:100%;
     display:inline-block;
-    margin-top:-400px;
+    margin-top:calc(16vmin - 300px);
 }
 #location{
     width:90vw;
@@ -60,7 +60,15 @@ a.btn:hover{
     a.btn{
         width:70vw;
     }
-    #social{
-        margin-top:100px;
+    #container{
+    margin-top:calc(40vw - 400px);
+    }
+}
+@media screen and (max-width: 500px) {
+    #container{
+    margin-top:calc(40vw - 300px);
+    }
+    .large{
+        font-size:30px;
     }
 }

@@ -208,6 +208,9 @@ a {
 }
 
 @media screen and (max-width: 1000px) {
+	.heading{
+		font-size:35px;
+	}
 	.logo_a{
 		margin-top:10px;
 	}
@@ -276,5 +279,9 @@ a {
 	}
 	#motto{
 		margin-top:50px;
+	}
+	.heading{
+		font-size: 25px;
+		line-height: 30px;
 	}
 }
