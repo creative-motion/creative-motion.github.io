@@ -46,6 +46,7 @@
 }
 #showcase{
 	height:100vw;
+	margin-top:10vw;
 	margin-bottom:-48vw;
 }
 @media screen and (max-width: 1000px){

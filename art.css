@@ -25,15 +25,14 @@
 }
 
 #parallax-stars {
-	position:fixed;
 	opacity: 0.5;
-	bottom: 20%;
+	bottom: 0%;
 	right: 0vw;
 	width: 70vw;
 }
 
 #parallax-astronaut {
-	bottom: -20%;
+	bottom: -50%;
 	right: 0;
 	width: 40vw;
 }
@@ -48,15 +47,14 @@
 	display: none;
 }
 #parallax-astronaut {
-	bottom: 30%;
+	bottom:10%;
 	right: 0;
 	width: 50vw;
 }
 #parallax-stars {
-	position:fixed;
 	opacity: 0.5;
-	bottom: 50%;
+	bottom: 30%;
 	right: 0vw;
-	width: 200vw;
+	width: 100vw;
 }
 }
