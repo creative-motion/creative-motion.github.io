@@ -61,12 +61,12 @@ a.btn:hover{
         width:70vw;
     }
     #container{
-    margin-top:calc(40vw - 400px);
+    margin-top:-5vh;
     }
 }
 @media screen and (max-width: 500px) {
     #container{
-    margin-top:calc(40vw - 300px);
+    margin-top:-5vh;
     }
     .large{
         font-size:30px;
