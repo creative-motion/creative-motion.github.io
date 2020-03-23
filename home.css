@@ -20,7 +20,7 @@
 }
 
 #exploapp-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/exploapp_bg.jpeg);
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 20% , rgba(0, 0, 0, 0) 100%, rgba(0, 0, 0, 0) 60.17%), url(img/exploapp_bg.jpeg);
 }
 
 #exploapp-panel img {
