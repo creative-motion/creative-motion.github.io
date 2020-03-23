@@ -15,23 +15,25 @@
 	left: 0;
 	bottom: 0vw;
 	width: 15vw;
+	display: none;
 }
 
 #parallax-skater {
-	transform: translateY(calc(var(--scrollTop) / 3));
 	left: 50vw;
 	width: 30vw;
+	display: none;
 }
 
 #parallax-stars {
-	top: 20vh;
-	transform: translateY(calc(var(--scrollTop) / 2));
-	right: 0;
-	width: 80vh;
+	position:fixed;
+	opacity: 0.5;
+	bottom: 20%;
+	right: 0vw;
+	width: 70vw;
 }
 
 #parallax-astronaut {
-	top: 30vh;
+	bottom: -20%;
 	right: 0;
 	width: 40vw;
 }
@@ -45,5 +47,16 @@
 #corgi{
 	display: none;
 }
-
+#parallax-astronaut {
+	bottom: 30%;
+	right: 0;
+	width: 50vw;
+}
+#parallax-stars {
+	position:fixed;
+	opacity: 0.5;
+	bottom: 50%;
+	right: 0vw;
+	width: 200vw;
+}
 }
