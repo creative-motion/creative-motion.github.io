@@ -14,6 +14,10 @@
 .st23{
     font-family: 'Ubuntu'!important;
 }
+#parallax-stars {
+	bottom: 0%;
+	width: 100vw;
+}
 @media screen and (max-width: 1000px){
     .txt_col {
         width: 100%;
