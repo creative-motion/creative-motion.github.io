@@ -11,16 +11,8 @@
 	
 	margin-bottom: 3vw;
 }
-#ledjx-panel {
-	background: url(img/labadjx.gif);
-}
-
-#taskdone-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.7) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/Frame.png);
-}
-
 #exploapp-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 20% , rgba(0, 0, 0, 0) 100%), url(img/exploapp_bg.jpeg);
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20% , rgba(0, 0, 0, 0) 100%), url(img/exploapp_bg2.jpeg);
 }
 
 #exploapp-panel img {
@@ -43,16 +35,6 @@
 	margin-bottom: -3vw;
 	width: 40vw;
 }
-
-#imprimanta-panel {
-	color: black;
-	background-image: url(/assets/img/imprimanta.jpg);
-	background-position: right center;
-	background-size: contain !important;
-	background-repeat: no-repeat;
-	background-color: #7b7b7b;
-}
-
 #portfolio .btn{
 	width:20vw;
 }
@@ -83,49 +65,31 @@
 	width: 20vh;
 }
 #blinkr-text{
-	
 	margin-bottom: 3vw;
 }
-#ledjx-panel {
-	background: url(img/labadjx.gif);
-}
-
-#taskdone-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.7) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/Frame.png);
-}
-
 #exploapp-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/exploapp_bg.jpeg);
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 10% , rgba(0, 0, 0, 0.2) 80%), url(img/exploapp_bg2.jpeg);
 }
 
 #exploapp-panel img {
 	margin-top: 10vw;
 	margin-bottom: 1vw;
-	width: 50vw;
+	width: 40vw;
 }
 
 #smartboard-panel {
-	background: linear-gradient(90deg, rgba(92, 92, 92, 0.7) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/smartboard.gif);
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 10% , rgba(0, 0, 0, 0.2) 80%), url(img/smartboard.gif);
 	background-position: center;
 }
 
 #sportier-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 33.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/sportier_bg.jpeg);
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 10% , rgba(0, 0, 0, 0) 70%), url(img/sportier_bg.jpeg);
 }
 
 #sportier-panel img {
 	margin-top: 8vw;
 	margin-bottom: -5vw;
 	width: 70vw;
-}
-
-#imprimanta-panel {
-	color: black;
-	background-image: url(/assets/img/imprimanta.jpg);
-	background-position: right center;
-	background-size: contain !important;
-	background-repeat: no-repeat;
-	background-color: #7b7b7b;
 }
 #portfolio .btn{
 	width:auto;
