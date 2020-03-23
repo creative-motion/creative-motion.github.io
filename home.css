@@ -19,14 +19,14 @@
 	background: linear-gradient(90deg, rgba(0, 0, 0, 0.7) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/Frame.png);
 }
 
-#foodtrach-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/foodtrach.png);
+#exploapp-panel {
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/exploapp_bg.jpeg);
 }
 
-#foodtrach-panel img {
+#exploapp-panel img {
 	margin-top: 6vw;
 	margin-bottom: 1vw;
-	width: 10vw;
+	width: 20vw;
 }
 
 #smartboard-panel {
