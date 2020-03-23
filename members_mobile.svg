@@ -54,8 +54,9 @@
 	.st35{letter-spacing:8;}
 	.st36{display:none;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#847DFF;stroke-width:6.459;stroke-miterlimit:10;}
 	.st37{display:none;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:6.459;stroke-miterlimit:10;}
-	.st38{display:none;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#847DFF;stroke-width:18;stroke-miterlimit:10;}
-	.st39{display:none;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:18;stroke-miterlimit:10;}
+	.st38{letter-spacing:4;}
+	.st39{display:none;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#847DFF;stroke-width:18;stroke-miterlimit:10;}
+	.st40{display:none;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:18;stroke-miterlimit:10;}
 </style>
 <metadata>
 	<x:xmpmeta  xmlns:x="adobe:ns:meta/">
@@ -1302,7 +1303,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 	</g>
 	<g id="TEXT">
 		
-			<image style="overflow:visible;opacity:0.78;" width="690" height="1202" xlink:href="AB1ED11E.png"  transform="matrix(1 0 0 1 15.694 26.694)">
+			<image style="overflow:visible;opacity:0.78;" width="690" height="1202" xlink:href="AB1ED11C.png"  transform="matrix(1 0 0 1 15.694 26.694)">
 		</image>
 		<g>
 			<g>
@@ -1325,7 +1326,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 	</g>
 	<g id="Paths">
 		
-			<image style="overflow:visible;opacity:0.82;" width="535" height="1191" xlink:href="AB1ED122.png"  transform="matrix(1 0 0 1 104.3115 114.3115)">
+			<image style="overflow:visible;opacity:0.82;" width="535" height="1191" xlink:href="AB1ED126.png"  transform="matrix(1 0 0 1 104.3115 114.3115)">
 		</image>
 		<g>
 			<g>
@@ -1355,7 +1356,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 	</g>
 	<g class="st8">
 		
-			<image style="overflow:visible;opacity:0.86;" width="333" height="333" xlink:href="AB1ED125.png"  transform="matrix(1 0 0 1 208.858 451.858)">
+			<image style="overflow:visible;opacity:0.86;" width="333" height="333" xlink:href="AB1ED127.png"  transform="matrix(1 0 0 1 208.858 451.858)">
 		</image>
 		<g>
 			<path class="st14" d="M375.2,482c-74.9,0-135.7,60.7-135.7,135.7c0,74.9,60.7,135.7,135.7,135.7s135.7-60.7,135.7-135.7
@@ -1608,7 +1609,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 	</g>
 	<g id="ppl">
 		
-			<image style="overflow:visible;opacity:0.67;" width="715" height="1392" xlink:href="BB7439C4.png"  transform="matrix(1 0 0 1 23.5465 13.5465)">
+			<image style="overflow:visible;opacity:0.67;" width="715" height="1392" xlink:href="BB7439CF.png"  transform="matrix(1 0 0 1 23.5465 13.5465)">
 		</image>
 		<g>
 			<g>
@@ -1740,7 +1741,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2V60.4C318.2,43.7,331.7,30.2,348.3,30.2z"/>
 				<g class="st8">
 					
-						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB7439CB.png"  transform="matrix(1 0 0 1 294.5465 5.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB7439F3.png"  transform="matrix(1 0 0 1 294.5465 5.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M345.5,26.3h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H345.5
@@ -1750,7 +1751,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				<circle class="st4" cx="381.7" cy="92.8" r="52"/>
 				<g class="st8">
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB7439CC.png"  transform="matrix(1 0 0 1 292.6175 34.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB7439F4.png"  transform="matrix(1 0 0 1 292.6175 34.6175)">
 					</image>
 					<g>
 						<g>
@@ -1760,9 +1761,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_38_">
 								<use xlink:href="#SVGID_37_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_38_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_38_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 295.9464 39.1979)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -1783,7 +1784,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2V210.9C161,194.2,174.5,180.7,191.2,180.7z"/>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.67;" width="422" height="360" xlink:href="BB7439CD.png"  transform="matrix(1 0 0 1 137.5465 155.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="422" height="360" xlink:href="BB7439F6.png"  transform="matrix(1 0 0 1 137.5465 155.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M188.3,176.8h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H188.3
@@ -1792,7 +1793,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.5;" width="199" height="199" xlink:href="BB7439CA.png"  transform="matrix(1 0 0 1 111.6175 172.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="199" height="199" xlink:href="BB7439F5.png"  transform="matrix(1 0 0 1 111.6175 172.6175)">
 					</image>
 					<g>
 						<g>
@@ -1802,9 +1803,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_40_">
 								<use xlink:href="#SVGID_39_"  style="overflow:visible;"/>
 							</clipPath>
-							<g transform="matrix(1 0 0 1 -7.629395e-06 0)" style="clip-path:url(#SVGID_40_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_40_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Calin Ungurean.jpg"  transform="matrix(0.374 0 0 0.374 115 176)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Calin Ungurean.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -1822,20 +1823,20 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 		</g>
 		<g id="Elena-tab" onmouseover="show('Elena-tab')" onmouseout="hide('Elena-tab')" class="st0">
 			<g class="st20">
-				<path class="st5" d="M196.2,290.7h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H196.2
-					c-16.7,0-30.2-13.5-30.2-30.2V320.9C166,304.2,179.5,290.7,196.2,290.7z"/>
+				<path class="st5" d="M193.2,290h326.4c15,0,27.1,12.2,27.1,27.1v202.7c0,15-12.2,27.1-27.1,27.1H193.2
+					c-15,0-27.1-12.2-27.1-27.1V317.1C166,302.1,178.2,290,193.2,290z"/>
 				<g class="st8">
 					
-						<image style="overflow:visible;opacity:0.67;" width="422" height="360" xlink:href="BB7439C7.png"  transform="matrix(1 0 0 1 142.5465 265.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="418" height="293" xlink:href="BB7439F9.png"  transform="matrix(1 0 0 1 144.6602 267.6602)">
 					</image>
 					<g>
-						<path class="st11" d="M193.3,286.8h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H193.3
-							c-16.7,0-30.2-13.5-30.2-30.2V316.9C163.2,300.3,176.7,286.8,193.3,286.8z"/>
+						<path class="st11" d="M190.2,286.8h326.6c14.9,0,27,12.1,27,27v201c0,14.9-12.1,27-27,27H190.2c-14.9,0-27-12.1-27-27v-201
+							C163.2,298.9,175.3,286.8,190.2,286.8z"/>
 					</g>
 				</g>
 				<g class="st8">
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB7439EB.png"  transform="matrix(1 0 0 1 386.6175 295.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="149" height="149" xlink:href="BB7439D1.png"  transform="matrix(1 0 0 1 403.6175 280.6175)">
 					</image>
 					<g>
 						<g>
@@ -1845,22 +1846,22 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_42_">
 								<use xlink:href="#SVGID_41_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_42_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_42_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 390.1642 299.793)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Elena Cojocariu.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
 					</g>
 				</g>
-				<text transform="matrix(1 0 0 1 193.9287 351.877)" class="st21 st6 st22">Luca</text>
+				<text transform="matrix(1 0 0 1 193.9287 351.877)" class="st21 st6 st22">Elena</text>
 				<text transform="matrix(1 0 0 1 193.9346 379.4629)" class="st21 st23 st24">CEO</text>
 				<g class="st8">
 					<rect x="191" y="414.1" class="st25" width="330.9" height="173"/>
-					<text transform="matrix(1 0 0 1 191.0391 425.7393)"><tspan x="0" y="0" class="st26 st23 st27">Cu</tspan><tspan x="17.9" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="35.2" y="0" class="st26 st23 st27">o</tspan><tspan x="44.1" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="61.4" y="0" class="st26 st23 st27">pasiune</tspan><tspan x="114.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="131.5" y="0" class="st26 st23 st27">puternica</tspan><tspan x="196.4" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="213.7" y="0" class="st26 st23 st27">pentru</tspan><tspan x="260" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="277.3" y="0" class="st26 st23 st27">tot</tspan><tspan x="298.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="315.6" y="0" class="st26 st23 st27">ce </tspan><tspan x="0" y="18" class="st26 st23 st27">functioneaza</tspan><tspan x="88.4" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="18" class="st26 st23 st27">cu</tspan><tspan x="112.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="121.7" y="18" class="st26 st23 st27">electricitate,</tspan><tspan x="207.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="216.7" y="18" class="st26 st23 st27">Luca</tspan><tspan x="247.9" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="256.7" y="18" class="st26 st23 st27">e</tspan><tspan x="265.1" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="274" y="18" class="st26 st23 st27">un</tspan><tspan x="291.2" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="300" y="18" class="st26 st23 st27">lider </tspan><tspan x="0" y="36" class="st26 st23 st27">persistent</tspan><tspan x="69.2" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="78" y="36" class="st26 st23 st27">si</tspan><tspan x="88.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="36" class="st26 st23 st27">focusat.</tspan><tspan x="151.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="160.4" y="36" class="st26 st23 st27">Adora</tspan><tspan x="201.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="210.4" y="36" class="st26 st23 st27">sa</tspan><tspan x="224.9" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="233.7" y="36" class="st26 st23 st27">dezbata</tspan><tspan x="288.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="297.2" y="36" class="st26 st23 st27">si</tspan><tspan x="307.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="316.4" y="36" class="st26 st23 st27">sa </tspan><tspan x="0" y="54" class="st26 st23 st27">aduca</tspan><tspan x="40.1" y="54" class="st26 st23 st27"> </tspan><tspan x="43.2" y="54" class="st26 st23 st27">argumente</tspan><tspan x="118.4" y="54" class="st26 st23 st27"> </tspan><tspan x="121.6" y="54" class="st26 st23 st27">puternice</tspan><tspan x="187" y="54" class="st26 st23 st27"> </tspan><tspan x="190.1" y="54" class="st26 st23 st27">la</tspan><tspan x="202.1" y="54" class="st26 st23 st27"> </tspan><tspan x="205.2" y="54" class="st26 st23 st27">masa</tspan><tspan x="240.5" y="54" class="st26 st23 st27"> </tspan><tspan x="243.6" y="54" class="st26 st23 st27">de</tspan><tspan x="260.8" y="54" class="st26 st23 st27"> </tspan><tspan x="264" y="54" class="st26 st23 st27">negocieri, </tspan><tspan x="0" y="72" class="st26 st23 st27">iar</tspan><tspan x="17.4" y="72" class="st26 st23 st27"> </tspan><tspan x="20.3" y="72" class="st26 st23 st27">abilitatile</tspan><tspan x="84.8" y="72" class="st26 st23 st27"> </tspan><tspan x="87.8" y="72" class="st26 st23 st27">sale</tspan><tspan x="114.8" y="72" class="st26 st23 st27"> </tspan><tspan x="117.7" y="72" class="st26 st23 st27">de</tspan><tspan x="134.9" y="72" class="st26 st23 st27"> </tspan><tspan x="137.8" y="72" class="st26 st23 st27">public</tspan><tspan x="179" y="72" class="st26 st23 st27"> </tspan><tspan x="181.9" y="72" class="st26 st23 st27">speaking</tspan><tspan x="242.5" y="72" class="st26 st23 st27"> </tspan><tspan x="245.4" y="72" class="st26 st23 st27">l-au</tspan><tspan x="270.5" y="72" class="st26 st23 st27"> </tspan><tspan x="273.4" y="72" class="st26 st23 st27">ajutat</tspan><tspan x="313.5" y="72" class="st26 st23 st27"> </tspan><tspan x="316.4" y="72" class="st26 st23 st27">sa </tspan><tspan x="0" y="90" class="st26 st23 st27">creasca</tspan><tspan x="50.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="57.2" y="90" class="st26 st23 st27">dintr-un</tspan><tspan x="112" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="118.7" y="90" class="st26 st23 st27">adolescent</tspan><tspan x="193.4" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="200.1" y="90" class="st26 st23 st27">timid</tspan><tspan x="235.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="242.2" y="90" class="st26 st23 st27">intr-un</tspan><tspan x="288.1" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="294.8" y="90" class="st26 st23 st27">tanar </tspan><tspan x="0" y="108" class="st26 st23 st27">decis</tspan><tspan x="34.7" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="43.7" y="108" class="st26 st23 st27">si</tspan><tspan x="54.1" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="63.1" y="108" class="st26 st23 st27">abil.</tspan><tspan x="91.4" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="100.3" y="108" class="st26 st23 st27">Principalele</tspan><tspan x="180" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="189" y="108" class="st26 st23 st27">sale</tspan><tspan x="216" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="225" y="108" class="st26 st23 st27">interese</tspan><tspan x="281" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="290" y="108" class="st26 st23 st27">includ </tspan><tspan x="0" y="126" class="st26 st23 st27">robotica,</tspan><tspan x="60.6" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="76.3" y="126" class="st26 st23 st27">educatia,</tspan><tspan x="138.3" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="153.9" y="126" class="st26 st23 st27">inovatia,</tspan><tspan x="211.8" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="227.5" y="126" class="st26 st23 st27">si</tspan><tspan x="238" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="253.6" y="126" class="st26 st23 st27">construirea </tspan><tspan x="0" y="144" class="st26 st23 st27">caracterelor.</tspan></text>
+					<text transform="matrix(1 0 0 1 191.0391 425.7393)"><tspan x="0" y="0" class="st26 st23 st27">Hello,</tspan><tspan x="39.7" y="0" class="st26 st23 st27 st33"> </tspan><tspan x="45.7" y="0" class="st26 st23 st27">sunt</tspan><tspan x="75.6" y="0" class="st26 st23 st27 st33"> </tspan><tspan x="81.6" y="0" class="st26 st23 st27">Elena.</tspan><tspan x="122.8" y="0" class="st26 st23 st27 st33"> </tspan><tspan x="128.8" y="0" class="st26 st23 st27">Îmi</tspan><tspan x="149.5" y="0" class="st26 st23 st27 st33"> </tspan><tspan x="155.5" y="0" class="st26 st23 st27">place</tspan><tspan x="191.7" y="0" class="st26 st23 st27 st33"> </tspan><tspan x="197.7" y="0" class="st26 st23 st27">sa</tspan><tspan x="212.2" y="0" class="st26 st23 st27 st33"> </tspan><tspan x="218.2" y="0" class="st26 st23 st27">mă</tspan><tspan x="238.9" y="0" class="st26 st23 st27 st33"> </tspan><tspan x="244.9" y="0" class="st26 st23 st27">uit</tspan><tspan x="263.4" y="0" class="st26 st23 st27 st33"> </tspan><tspan x="269.4" y="0" class="st26 st23 st27">la</tspan><tspan x="281.3" y="0" class="st26 st23 st27 st33"> </tspan><tspan x="287.3" y="0" class="st26 st23 st27">lucruri </tspan><tspan x="0" y="18" class="st26 st23 st27">frumoase</tspan><tspan x="64.9" y="18" class="st26 st23 st27 st33"> </tspan><tspan x="70.6" y="18" class="st26 st23 st27">și</tspan><tspan x="81.1" y="18" class="st26 st23 st27 st33"> </tspan><tspan x="86.9" y="18" class="st26 st23 st27">am</tspan><tspan x="107.7" y="18" class="st26 st23 st27 st33"> </tspan><tspan x="113.5" y="18" class="st26 st23 st27">o</tspan><tspan x="122.3" y="18" class="st26 st23 st27 st33"> </tspan><tspan x="128.1" y="18" class="st26 st23 st27">pasiune</tspan><tspan x="180.9" y="18" class="st26 st23 st27 st33"> </tspan><tspan x="186.6" y="18" class="st26 st23 st27">pentru</tspan><tspan x="232.9" y="18" class="st26 st23 st27 st33"> </tspan><tspan x="238.7" y="18" class="st26 st23 st27">a</tspan><tspan x="246.5" y="18" class="st26 st23 st27 st33"> </tspan><tspan x="252.3" y="18" class="st26 st23 st27">desena</tspan><tspan x="301" y="18" class="st26 st23 st27 st33"> </tspan><tspan x="306.8" y="18" class="st26 st23 st27">și</tspan><tspan x="317.3" y="18" class="st26 st23 st27 st33"> </tspan><tspan x="323.1" y="18" class="st26 st23 st27">a </tspan><tspan x="0" y="36" class="st26 st23 st27">face</tspan><tspan x="29" y="36" class="st26 st23 st27 st38"> </tspan><tspan x="36.8" y="36" class="st26 st23 st27">poze.</tspan><tspan x="73.7" y="36" class="st26 st23 st27 st38"> </tspan><tspan x="81.5" y="36" class="st26 st23 st27">Îmi</tspan><tspan x="102.3" y="36" class="st26 st23 st27 st38"> </tspan><tspan x="110.1" y="36" class="st26 st23 st27">place</tspan><tspan x="146.3" y="36" class="st26 st23 st27 st38"> </tspan><tspan x="154.1" y="36" class="st26 st23 st27">să</tspan><tspan x="168.6" y="36" class="st26 st23 st27 st38"> </tspan><tspan x="176.5" y="36" class="st26 st23 st27">descopăr</tspan><tspan x="238.7" y="36" class="st26 st23 st27 st38"> </tspan><tspan x="246.5" y="36" class="st26 st23 st27">lucruri</tspan><tspan x="290.2" y="36" class="st26 st23 st27 st38"> </tspan><tspan x="298.1" y="36" class="st26 st23 st27">și</tspan><tspan x="308.6" y="36" class="st26 st23 st27 st38"> </tspan><tspan x="316.4" y="36" class="st26 st23 st27">să </tspan><tspan x="0" y="54" class="st26 st23 st27">cunosc</tspan><tspan x="46.7" y="54" class="st26 st23 st27 st38"> </tspan><tspan x="55.1" y="54" class="st26 st23 st27">persoane</tspan><tspan x="118.5" y="54" class="st26 st23 st27 st38"> </tspan><tspan x="126.9" y="54" class="st26 st23 st27">noi.</tspan><tspan x="151.8" y="54" class="st26 st23 st27 st38"> </tspan><tspan x="160.2" y="54" class="st26 st23 st27">Sunt</tspan><tspan x="191.4" y="54" class="st26 st23 st27 st38"> </tspan><tspan x="199.8" y="54" class="st26 st23 st27">o</tspan><tspan x="208.7" y="54" class="st26 st23 st27 st38"> </tspan><tspan x="217.1" y="54" class="st26 st23 st27">persoana</tspan><tspan x="279.9" y="54" class="st26 st23 st27 st38"> </tspan><tspan x="288.3" y="54" class="st26 st23 st27">foarte </tspan><tspan x="0" y="72" class="st26 st23 st27">competitiva</tspan><tspan x="81" y="72" class="st26 st23 st27 st31"> </tspan><tspan x="96.9" y="72" class="st26 st23 st27">și</tspan><tspan x="107.4" y="72" class="st26 st23 st27 st31"> </tspan><tspan x="123.3" y="72" class="st26 st23 st27">încăpățânată,</tspan><tspan x="215.1" y="72" class="st26 st23 st27 st31"> </tspan><tspan x="231" y="72" class="st26 st23 st27">dar</tspan><tspan x="253.5" y="72" class="st26 st23 st27 st31"> </tspan><tspan x="269.4" y="72" class="st26 st23 st27">asta</tspan><tspan x="297.8" y="72" class="st26 st23 st27 st31"> </tspan><tspan x="313.7" y="72" class="st26 st23 st27">nu </tspan><tspan x="0" y="90" class="st26 st23 st27">înseamnă că nu știu când greșesc. Vă pup!</tspan></text>
 				</g>
-				<circle class="st38" cx="653.6" cy="-357.5" r="145"/>
-				<circle class="st39" cx="647.6" cy="-364.8" r="145"/>
+				<circle class="st39" cx="653.6" cy="-357.5" r="145"/>
+				<circle class="st40" cx="647.6" cy="-364.8" r="145"/>
 			</g>
 		</g>
 		<g id="Linh-tab" onmouseover="show('Linh-tab')" onmouseout="hide('Linh-tab')" class="st15">
@@ -1869,7 +1870,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2V141.7C56.3,125,69.8,111.5,86.4,111.5z"/>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB7439D7.png"  transform="matrix(1 0 0 1 32.5465 86.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB7439D3.png"  transform="matrix(1 0 0 1 32.5465 86.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M83.6,107.6H404c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H83.6
@@ -1878,7 +1879,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB7439D9.png"  transform="matrix(1 0 0 1 30.6175 116.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="182" xlink:href="BB7439D0.png"  transform="matrix(1 0 0 1 31.6175 103.6175)">
 					</image>
 					<g>
 						<g>
@@ -1888,15 +1889,15 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_44_">
 								<use xlink:href="#SVGID_43_"  style="overflow:visible;"/>
 							</clipPath>
-							<g transform="matrix(1 0 0 1 0 -7.629395e-06)" style="clip-path:url(#SVGID_44_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_44_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 34.0261 120.5033)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Linh Pham.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
 					</g>
 				</g>
-				<text transform="matrix(1 0 0 1 186.5762 172.5869)" class="st26 st6 st22">Luca</text>
+				<text transform="matrix(1 0 0 1 186.5762 172.5869)" class="st26 st6 st22">Linh</text>
 				<text transform="matrix(1 0 0 1 186.583 200.1738)" class="st26 st23 st24">CEO</text>
 				<g>
 					<rect x="81.3" y="234.9" class="st25" width="330.9" height="173"/>
@@ -1912,7 +1913,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2V372.8C48.1,356.1,61.6,342.6,78.2,342.6z"/>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB7439DE.png"  transform="matrix(1 0 0 1 24.5465 317.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB7439C2.png"  transform="matrix(1 0 0 1 24.5465 317.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M75.3,338.7h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H75.3
@@ -1921,7 +1922,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB7439DF.png"  transform="matrix(1 0 0 1 22.6175 347.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB7439C3.png"  transform="matrix(1 0 0 1 22.6175 347.6175)">
 					</image>
 					<g>
 						<g>
@@ -1931,9 +1932,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_46_">
 								<use xlink:href="#SVGID_45_"  style="overflow:visible;"/>
 							</clipPath>
-							<g transform="matrix(1 0 0 1 1.907349e-06 3.051758e-05)" style="clip-path:url(#SVGID_46_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_46_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 25.8068 351.5837)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -1955,7 +1956,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2V542.6C44.5,526,58,512.5,74.6,512.5z"/>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB7439DB.png"  transform="matrix(1 0 0 1 20.5465 487.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB7439C1.png"  transform="matrix(1 0 0 1 20.5465 487.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M71.8,508.5h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H71.8
@@ -1964,7 +1965,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB7439D6.png"  transform="matrix(1 0 0 1 18.6175 517.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB7439C0.png"  transform="matrix(1 0 0 1 18.6175 517.6175)">
 					</image>
 					<g>
 						<g>
@@ -1974,9 +1975,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_48_">
 								<use xlink:href="#SVGID_47_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_48_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_48_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 22.2298 521.4673)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -1998,7 +1999,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2V679.3C44.1,662.6,57.6,649.1,74.2,649.1z"/>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743A32.png"  transform="matrix(1 0 0 1 20.5465 624.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743A35.png"  transform="matrix(1 0 0 1 20.5465 624.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M71.3,645.2h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H71.3
@@ -2007,7 +2008,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A36.png"  transform="matrix(1 0 0 1 18.6175 653.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A20.png"  transform="matrix(1 0 0 1 18.6175 653.6175)">
 					</image>
 					<g>
 						<g>
@@ -2017,9 +2018,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_50_">
 								<use xlink:href="#SVGID_49_"  style="overflow:visible;"/>
 							</clipPath>
-							<g transform="matrix(1 0 0 1 1.907349e-06 0)" style="clip-path:url(#SVGID_50_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_50_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 21.806 658.118)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2041,7 +2042,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2V924.2C38.2,907.6,51.7,894.1,68.4,894.1z"/>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB743A33.png"  transform="matrix(1 0 0 1 14.5465 869.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB743A22.png"  transform="matrix(1 0 0 1 14.5465 869.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M65.5,890.1h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H65.5
@@ -2050,7 +2051,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A31.png"  transform="matrix(1 0 0 1 12.6175 898.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A23.png"  transform="matrix(1 0 0 1 12.6175 898.6175)">
 					</image>
 					<g>
 						<g>
@@ -2060,9 +2061,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_52_">
 								<use xlink:href="#SVGID_51_"  style="overflow:visible;"/>
 							</clipPath>
-							<g transform="matrix(1 0 0 1 -9.536743e-07 0)" style="clip-path:url(#SVGID_52_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_52_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 15.9573 903.0289)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2084,7 +2085,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2v-256.9C59.6,1085.9,73.1,1072.4,89.8,1072.4z"/>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB743A0E.png"  transform="matrix(1 0 0 1 35.5465 1047.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB743A10.png"  transform="matrix(1 0 0 1 35.5465 1047.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M86.9,1068.5h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H86.9
@@ -2093,7 +2094,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A12.png"  transform="matrix(1 0 0 1 33.6175 1076.6176)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A16.png"  transform="matrix(1 0 0 1 33.6175 1076.6176)">
 					</image>
 					<g>
 						<g>
@@ -2103,9 +2104,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_54_">
 								<use xlink:href="#SVGID_53_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_54_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_54_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 37.363 1081.3833)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2127,7 +2128,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2V926.6C284,909.9,297.5,896.4,314.2,896.4z"/>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743A0D.png"  transform="matrix(1 0 0 1 260.5465 871.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743A0B.png"  transform="matrix(1 0 0 1 260.5465 871.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M311.3,892.5h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H311.3
@@ -2136,7 +2137,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A73.png"  transform="matrix(1 0 0 1 258.6175 900.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A79.png"  transform="matrix(1 0 0 1 258.6175 900.6175)">
 					</image>
 					<g>
 						<g>
@@ -2146,9 +2147,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_56_">
 								<use xlink:href="#SVGID_55_"  style="overflow:visible;"/>
 							</clipPath>
-							<g transform="matrix(1 0 0 1 0 -6.103516e-05)" style="clip-path:url(#SVGID_56_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_56_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 261.7583 905.3967)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2170,7 +2171,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					c-16.7,0-30.2-13.5-30.2-30.2v-256.9C301.5,1083.7,315,1070.2,331.7,1070.2z"/>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB743A77.png"  transform="matrix(1 0 0 1 277.5465 1045.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB743A7E.png"  transform="matrix(1 0 0 1 277.5465 1045.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M328.8,1066.3h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H328.8
@@ -2179,7 +2180,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A75.png"  transform="matrix(1 0 0 1 275.6175 1074.6176)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A03.png"  transform="matrix(1 0 0 1 275.6175 1074.6176)">
 					</image>
 					<g>
 						<g>
@@ -2189,9 +2190,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_58_">
 								<use xlink:href="#SVGID_57_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_58_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_58_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 279.2563 1079.2078)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2214,7 +2215,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					C337.3,342.5,350.8,329,367.5,329z"/>
 				<g onmouseover="show('Mara-tab')" onmouseout="hide('Mara-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB743A7D.png"  transform="matrix(1 0 0 1 313.5465 304.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="423" height="359" xlink:href="BB743A05.png"  transform="matrix(1 0 0 1 313.5465 304.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M364.6,325.1H685c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H364.6
@@ -2223,7 +2224,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g onmouseover="show('Mara-tab')" onmouseout="hide('Mara-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.5;" width="183" height="183" xlink:href="BB743A7F.png"  transform="matrix(1 0 0 1 557.6175 333.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="183" height="183" xlink:href="BB743A06.png"  transform="matrix(1 0 0 1 557.6175 333.6175)">
 					</image>
 					<g>
 						<g>
@@ -2233,9 +2234,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_60_">
 								<use xlink:href="#SVGID_59_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_60_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_60_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 561.4125 338.0836)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2249,8 +2250,8 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					<rect x="362.3" y="452.4" class="st25" width="330.9" height="173"/>
 					<text transform="matrix(1 0 0 1 362.2871 464.0303)"><tspan x="0" y="0" class="st26 st23 st27">Cu</tspan><tspan x="17.9" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="35.2" y="0" class="st26 st23 st27">o</tspan><tspan x="44.1" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="61.4" y="0" class="st26 st23 st27">pasiune</tspan><tspan x="114.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="131.5" y="0" class="st26 st23 st27">puternica</tspan><tspan x="196.4" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="213.7" y="0" class="st26 st23 st27">pentru</tspan><tspan x="260" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="277.3" y="0" class="st26 st23 st27">tot</tspan><tspan x="298.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="315.6" y="0" class="st26 st23 st27">ce </tspan><tspan x="0" y="18" class="st26 st23 st27">functioneaza</tspan><tspan x="88.4" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="18" class="st26 st23 st27">cu</tspan><tspan x="112.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="121.7" y="18" class="st26 st23 st27">electricitate,</tspan><tspan x="207.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="216.7" y="18" class="st26 st23 st27">Luca</tspan><tspan x="247.9" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="256.7" y="18" class="st26 st23 st27">e</tspan><tspan x="265.1" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="274" y="18" class="st26 st23 st27">un</tspan><tspan x="291.2" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="300" y="18" class="st26 st23 st27">lider </tspan><tspan x="0" y="36" class="st26 st23 st27">persistent</tspan><tspan x="69.2" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="78" y="36" class="st26 st23 st27">si</tspan><tspan x="88.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="36" class="st26 st23 st27">focusat.</tspan><tspan x="151.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="160.4" y="36" class="st26 st23 st27">Adora</tspan><tspan x="201.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="210.4" y="36" class="st26 st23 st27">sa</tspan><tspan x="224.9" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="233.7" y="36" class="st26 st23 st27">dezbata</tspan><tspan x="288.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="297.2" y="36" class="st26 st23 st27">si</tspan><tspan x="307.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="316.4" y="36" class="st26 st23 st27">sa </tspan><tspan x="0" y="54" class="st26 st23 st27">aduca</tspan><tspan x="40.1" y="54" class="st26 st23 st27"> </tspan><tspan x="43.2" y="54" class="st26 st23 st27">argumente</tspan><tspan x="118.4" y="54" class="st26 st23 st27"> </tspan><tspan x="121.6" y="54" class="st26 st23 st27">puternice</tspan><tspan x="187" y="54" class="st26 st23 st27"> </tspan><tspan x="190.1" y="54" class="st26 st23 st27">la</tspan><tspan x="202.1" y="54" class="st26 st23 st27"> </tspan><tspan x="205.2" y="54" class="st26 st23 st27">masa</tspan><tspan x="240.5" y="54" class="st26 st23 st27"> </tspan><tspan x="243.6" y="54" class="st26 st23 st27">de</tspan><tspan x="260.8" y="54" class="st26 st23 st27"> </tspan><tspan x="264" y="54" class="st26 st23 st27">negocieri, </tspan><tspan x="0" y="72" class="st26 st23 st27">iar</tspan><tspan x="17.4" y="72" class="st26 st23 st27"> </tspan><tspan x="20.3" y="72" class="st26 st23 st27">abilitatile</tspan><tspan x="84.8" y="72" class="st26 st23 st27"> </tspan><tspan x="87.8" y="72" class="st26 st23 st27">sale</tspan><tspan x="114.8" y="72" class="st26 st23 st27"> </tspan><tspan x="117.7" y="72" class="st26 st23 st27">de</tspan><tspan x="134.9" y="72" class="st26 st23 st27"> </tspan><tspan x="137.8" y="72" class="st26 st23 st27">public</tspan><tspan x="179" y="72" class="st26 st23 st27"> </tspan><tspan x="181.9" y="72" class="st26 st23 st27">speaking</tspan><tspan x="242.5" y="72" class="st26 st23 st27"> </tspan><tspan x="245.4" y="72" class="st26 st23 st27">l-au</tspan><tspan x="270.5" y="72" class="st26 st23 st27"> </tspan><tspan x="273.4" y="72" class="st26 st23 st27">ajutat</tspan><tspan x="313.5" y="72" class="st26 st23 st27"> </tspan><tspan x="316.4" y="72" class="st26 st23 st27">sa </tspan><tspan x="0" y="90" class="st26 st23 st27">creasca</tspan><tspan x="50.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="57.2" y="90" class="st26 st23 st27">dintr-un</tspan><tspan x="112" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="118.7" y="90" class="st26 st23 st27">adolescent</tspan><tspan x="193.4" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="200.1" y="90" class="st26 st23 st27">timid</tspan><tspan x="235.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="242.2" y="90" class="st26 st23 st27">intr-un</tspan><tspan x="288.1" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="294.8" y="90" class="st26 st23 st27">tanar </tspan><tspan x="0" y="108" class="st26 st23 st27">decis</tspan><tspan x="34.7" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="43.7" y="108" class="st26 st23 st27">si</tspan><tspan x="54.1" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="63.1" y="108" class="st26 st23 st27">abil.</tspan><tspan x="91.4" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="100.3" y="108" class="st26 st23 st27">Principalele</tspan><tspan x="180" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="189" y="108" class="st26 st23 st27">sale</tspan><tspan x="216" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="225" y="108" class="st26 st23 st27">interese</tspan><tspan x="281" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="290" y="108" class="st26 st23 st27">includ </tspan><tspan x="0" y="126" class="st26 st23 st27">robotica,</tspan><tspan x="60.6" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="76.3" y="126" class="st26 st23 st27">educatia,</tspan><tspan x="138.3" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="153.9" y="126" class="st26 st23 st27">inovatia,</tspan><tspan x="211.8" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="227.5" y="126" class="st26 st23 st27">si</tspan><tspan x="238" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="253.6" y="126" class="st26 st23 st27">construirea </tspan><tspan x="0" y="144" class="st26 st23 st27">caracterelor.</tspan></text>
 				</g>
-				<circle class="st38" cx="1130.8" cy="-250.8" r="145"/>
-				<circle class="st39" cx="1124.8" cy="-258.1" r="145"/>
+				<circle class="st39" cx="1130.8" cy="-250.8" r="145"/>
+				<circle class="st40" cx="1124.8" cy="-258.1" r="145"/>
 			</g>
 		</g>
 		<g id="Rares-tab" class="st0">
@@ -2260,7 +2261,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					C317.1,515.9,330.6,502.4,347.3,502.4z"/>
 				<g onmouseover="show('Rares-tab')" onmouseout="hide('Rares-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743A74.png"  transform="matrix(1 0 0 1 293.5465 477.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743A09.png"  transform="matrix(1 0 0 1 293.5465 477.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M344.4,498.4h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H344.4
@@ -2269,7 +2270,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g onmouseover="show('Rares-tab')" onmouseout="hide('Rares-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A58.png"  transform="matrix(1 0 0 1 537.6175 506.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A5B.png"  transform="matrix(1 0 0 1 537.6175 506.6175)">
 					</image>
 					<g>
 						<g>
@@ -2279,9 +2280,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_62_">
 								<use xlink:href="#SVGID_61_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_62_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_62_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 541.2275 511.4031)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2295,8 +2296,8 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					<rect x="342.1" y="625.7" class="st25" width="330.9" height="173"/>
 					<text transform="matrix(1 0 0 1 342.1016 637.3496)"><tspan x="0" y="0" class="st26 st23 st27">Cu</tspan><tspan x="17.9" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="35.2" y="0" class="st26 st23 st27">o</tspan><tspan x="44.1" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="61.4" y="0" class="st26 st23 st27">pasiune</tspan><tspan x="114.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="131.5" y="0" class="st26 st23 st27">puternica</tspan><tspan x="196.4" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="213.7" y="0" class="st26 st23 st27">pentru</tspan><tspan x="260" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="277.3" y="0" class="st26 st23 st27">tot</tspan><tspan x="298.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="315.6" y="0" class="st26 st23 st27">ce </tspan><tspan x="0" y="18" class="st26 st23 st27">functioneaza</tspan><tspan x="88.4" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="18" class="st26 st23 st27">cu</tspan><tspan x="112.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="121.7" y="18" class="st26 st23 st27">electricitate,</tspan><tspan x="207.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="216.7" y="18" class="st26 st23 st27">Luca</tspan><tspan x="247.9" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="256.7" y="18" class="st26 st23 st27">e</tspan><tspan x="265.1" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="274" y="18" class="st26 st23 st27">un</tspan><tspan x="291.2" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="300" y="18" class="st26 st23 st27">lider </tspan><tspan x="0" y="36" class="st26 st23 st27">persistent</tspan><tspan x="69.2" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="78" y="36" class="st26 st23 st27">si</tspan><tspan x="88.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="36" class="st26 st23 st27">focusat.</tspan><tspan x="151.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="160.4" y="36" class="st26 st23 st27">Adora</tspan><tspan x="201.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="210.4" y="36" class="st26 st23 st27">sa</tspan><tspan x="224.9" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="233.7" y="36" class="st26 st23 st27">dezbata</tspan><tspan x="288.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="297.2" y="36" class="st26 st23 st27">si</tspan><tspan x="307.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="316.4" y="36" class="st26 st23 st27">sa </tspan><tspan x="0" y="54" class="st26 st23 st27">aduca</tspan><tspan x="40.1" y="54" class="st26 st23 st27"> </tspan><tspan x="43.2" y="54" class="st26 st23 st27">argumente</tspan><tspan x="118.4" y="54" class="st26 st23 st27"> </tspan><tspan x="121.6" y="54" class="st26 st23 st27">puternice</tspan><tspan x="187" y="54" class="st26 st23 st27"> </tspan><tspan x="190.1" y="54" class="st26 st23 st27">la</tspan><tspan x="202.1" y="54" class="st26 st23 st27"> </tspan><tspan x="205.2" y="54" class="st26 st23 st27">masa</tspan><tspan x="240.5" y="54" class="st26 st23 st27"> </tspan><tspan x="243.6" y="54" class="st26 st23 st27">de</tspan><tspan x="260.8" y="54" class="st26 st23 st27"> </tspan><tspan x="264" y="54" class="st26 st23 st27">negocieri, </tspan><tspan x="0" y="72" class="st26 st23 st27">iar</tspan><tspan x="17.4" y="72" class="st26 st23 st27"> </tspan><tspan x="20.3" y="72" class="st26 st23 st27">abilitatile</tspan><tspan x="84.8" y="72" class="st26 st23 st27"> </tspan><tspan x="87.8" y="72" class="st26 st23 st27">sale</tspan><tspan x="114.8" y="72" class="st26 st23 st27"> </tspan><tspan x="117.7" y="72" class="st26 st23 st27">de</tspan><tspan x="134.9" y="72" class="st26 st23 st27"> </tspan><tspan x="137.8" y="72" class="st26 st23 st27">public</tspan><tspan x="179" y="72" class="st26 st23 st27"> </tspan><tspan x="181.9" y="72" class="st26 st23 st27">speaking</tspan><tspan x="242.5" y="72" class="st26 st23 st27"> </tspan><tspan x="245.4" y="72" class="st26 st23 st27">l-au</tspan><tspan x="270.5" y="72" class="st26 st23 st27"> </tspan><tspan x="273.4" y="72" class="st26 st23 st27">ajutat</tspan><tspan x="313.5" y="72" class="st26 st23 st27"> </tspan><tspan x="316.4" y="72" class="st26 st23 st27">sa </tspan><tspan x="0" y="90" class="st26 st23 st27">creasca</tspan><tspan x="50.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="57.2" y="90" class="st26 st23 st27">dintr-un</tspan><tspan x="112" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="118.7" y="90" class="st26 st23 st27">adolescent</tspan><tspan x="193.4" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="200.1" y="90" class="st26 st23 st27">timid</tspan><tspan x="235.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="242.2" y="90" class="st26 st23 st27">intr-un</tspan><tspan x="288.1" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="294.8" y="90" class="st26 st23 st27">tanar </tspan><tspan x="0" y="108" class="st26 st23 st27">decis</tspan><tspan x="34.7" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="43.7" y="108" class="st26 st23 st27">si</tspan><tspan x="54.1" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="63.1" y="108" class="st26 st23 st27">abil.</tspan><tspan x="91.4" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="100.3" y="108" class="st26 st23 st27">Principalele</tspan><tspan x="180" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="189" y="108" class="st26 st23 st27">sale</tspan><tspan x="216" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="225" y="108" class="st26 st23 st27">interese</tspan><tspan x="281" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="290" y="108" class="st26 st23 st27">includ </tspan><tspan x="0" y="126" class="st26 st23 st27">robotica,</tspan><tspan x="60.6" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="76.3" y="126" class="st26 st23 st27">educatia,</tspan><tspan x="138.3" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="153.9" y="126" class="st26 st23 st27">inovatia,</tspan><tspan x="211.8" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="227.5" y="126" class="st26 st23 st27">si</tspan><tspan x="238" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="253.6" y="126" class="st26 st23 st27">construirea </tspan><tspan x="0" y="144" class="st26 st23 st27">caracterelor.</tspan></text>
 				</g>
-				<circle class="st38" cx="1074.6" cy="232.2" r="145"/>
-				<circle class="st39" cx="1068.6" cy="224.9" r="145"/>
+				<circle class="st39" cx="1074.6" cy="232.2" r="145"/>
+				<circle class="st40" cx="1068.6" cy="224.9" r="145"/>
 			</g>
 		</g>
 		<g id="RazvanA-tab" class="st0">
@@ -2306,7 +2307,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					C352.3,708.3,365.8,694.8,382.4,694.8z"/>
 				<g onmouseover="show('RazvanA-tab')" onmouseout="hide('RazvanA-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.67;" width="423" height="360" xlink:href="BB743A59.png"  transform="matrix(1 0 0 1 328.5465 669.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="423" height="360" xlink:href="BB743A34.png"  transform="matrix(1 0 0 1 328.5465 669.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M379.6,690.8H700c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H379.6
@@ -2315,7 +2316,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g onmouseover="show('RazvanA-tab')" onmouseout="hide('RazvanA-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A27.png"  transform="matrix(1 0 0 1 572.6175 699.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A3F.png"  transform="matrix(1 0 0 1 572.6175 699.6175)">
 					</image>
 					<g>
 						<g>
@@ -2325,9 +2326,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_64_">
 								<use xlink:href="#SVGID_63_"  style="overflow:visible;"/>
 							</clipPath>
-							<g transform="matrix(1 0 0 1 0 6.103516e-05)" style="clip-path:url(#SVGID_64_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_64_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 576.3931 703.8226)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2341,8 +2342,8 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					<rect x="377.3" y="818.1" class="st25" width="330.9" height="173"/>
 					<text transform="matrix(1 0 0 1 377.2676 829.7695)"><tspan x="0" y="0" class="st26 st23 st27">Cu</tspan><tspan x="17.9" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="35.2" y="0" class="st26 st23 st27">o</tspan><tspan x="44.1" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="61.4" y="0" class="st26 st23 st27">pasiune</tspan><tspan x="114.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="131.5" y="0" class="st26 st23 st27">puternica</tspan><tspan x="196.4" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="213.7" y="0" class="st26 st23 st27">pentru</tspan><tspan x="260" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="277.3" y="0" class="st26 st23 st27">tot</tspan><tspan x="298.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="315.6" y="0" class="st26 st23 st27">ce </tspan><tspan x="0" y="18" class="st26 st23 st27">functioneaza</tspan><tspan x="88.4" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="18" class="st26 st23 st27">cu</tspan><tspan x="112.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="121.7" y="18" class="st26 st23 st27">electricitate,</tspan><tspan x="207.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="216.7" y="18" class="st26 st23 st27">Luca</tspan><tspan x="247.9" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="256.7" y="18" class="st26 st23 st27">e</tspan><tspan x="265.1" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="274" y="18" class="st26 st23 st27">un</tspan><tspan x="291.2" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="300" y="18" class="st26 st23 st27">lider </tspan><tspan x="0" y="36" class="st26 st23 st27">persistent</tspan><tspan x="69.2" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="78" y="36" class="st26 st23 st27">si</tspan><tspan x="88.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="36" class="st26 st23 st27">focusat.</tspan><tspan x="151.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="160.4" y="36" class="st26 st23 st27">Adora</tspan><tspan x="201.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="210.4" y="36" class="st26 st23 st27">sa</tspan><tspan x="224.9" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="233.7" y="36" class="st26 st23 st27">dezbata</tspan><tspan x="288.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="297.2" y="36" class="st26 st23 st27">si</tspan><tspan x="307.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="316.4" y="36" class="st26 st23 st27">sa </tspan><tspan x="0" y="54" class="st26 st23 st27">aduca</tspan><tspan x="40.1" y="54" class="st26 st23 st27"> </tspan><tspan x="43.2" y="54" class="st26 st23 st27">argumente</tspan><tspan x="118.4" y="54" class="st26 st23 st27"> </tspan><tspan x="121.6" y="54" class="st26 st23 st27">puternice</tspan><tspan x="187" y="54" class="st26 st23 st27"> </tspan><tspan x="190.1" y="54" class="st26 st23 st27">la</tspan><tspan x="202.1" y="54" class="st26 st23 st27"> </tspan><tspan x="205.2" y="54" class="st26 st23 st27">masa</tspan><tspan x="240.5" y="54" class="st26 st23 st27"> </tspan><tspan x="243.6" y="54" class="st26 st23 st27">de</tspan><tspan x="260.8" y="54" class="st26 st23 st27"> </tspan><tspan x="264" y="54" class="st26 st23 st27">negocieri, </tspan><tspan x="0" y="72" class="st26 st23 st27">iar</tspan><tspan x="17.4" y="72" class="st26 st23 st27"> </tspan><tspan x="20.3" y="72" class="st26 st23 st27">abilitatile</tspan><tspan x="84.8" y="72" class="st26 st23 st27"> </tspan><tspan x="87.8" y="72" class="st26 st23 st27">sale</tspan><tspan x="114.8" y="72" class="st26 st23 st27"> </tspan><tspan x="117.7" y="72" class="st26 st23 st27">de</tspan><tspan x="134.9" y="72" class="st26 st23 st27"> </tspan><tspan x="137.8" y="72" class="st26 st23 st27">public</tspan><tspan x="179" y="72" class="st26 st23 st27"> </tspan><tspan x="181.9" y="72" class="st26 st23 st27">speaking</tspan><tspan x="242.5" y="72" class="st26 st23 st27"> </tspan><tspan x="245.4" y="72" class="st26 st23 st27">l-au</tspan><tspan x="270.5" y="72" class="st26 st23 st27"> </tspan><tspan x="273.4" y="72" class="st26 st23 st27">ajutat</tspan><tspan x="313.5" y="72" class="st26 st23 st27"> </tspan><tspan x="316.4" y="72" class="st26 st23 st27">sa </tspan><tspan x="0" y="90" class="st26 st23 st27">creasca</tspan><tspan x="50.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="57.2" y="90" class="st26 st23 st27">dintr-un</tspan><tspan x="112" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="118.7" y="90" class="st26 st23 st27">adolescent</tspan><tspan x="193.4" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="200.1" y="90" class="st26 st23 st27">timid</tspan><tspan x="235.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="242.2" y="90" class="st26 st23 st27">intr-un</tspan><tspan x="288.1" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="294.8" y="90" class="st26 st23 st27">tanar </tspan><tspan x="0" y="108" class="st26 st23 st27">decis</tspan><tspan x="34.7" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="43.7" y="108" class="st26 st23 st27">si</tspan><tspan x="54.1" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="63.1" y="108" class="st26 st23 st27">abil.</tspan><tspan x="91.4" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="100.3" y="108" class="st26 st23 st27">Principalele</tspan><tspan x="180" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="189" y="108" class="st26 st23 st27">sale</tspan><tspan x="216" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="225" y="108" class="st26 st23 st27">interese</tspan><tspan x="281" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="290" y="108" class="st26 st23 st27">includ </tspan><tspan x="0" y="126" class="st26 st23 st27">robotica,</tspan><tspan x="60.6" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="76.3" y="126" class="st26 st23 st27">educatia,</tspan><tspan x="138.3" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="153.9" y="126" class="st26 st23 st27">inovatia,</tspan><tspan x="211.8" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="227.5" y="126" class="st26 st23 st27">si</tspan><tspan x="238" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="253.6" y="126" class="st26 st23 st27">construirea </tspan><tspan x="0" y="144" class="st26 st23 st27">caracterelor.</tspan></text>
 				</g>
-				<circle class="st38" cx="1172.6" cy="768.5" r="145"/>
-				<circle class="st39" cx="1166.6" cy="761.2" r="145"/>
+				<circle class="st39" cx="1172.6" cy="768.5" r="145"/>
+				<circle class="st40" cx="1166.6" cy="761.2" r="145"/>
 			</g>
 		</g>
 		<g id="Ovidiu-tab" class="st0">
@@ -2352,7 +2353,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					C321.1,871,334.6,857.5,351.2,857.5z"/>
 				<g onmouseover="show('Ovidiu-tab')" onmouseout="hide('Ovidiu-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743A28.png"  transform="matrix(1 0 0 1 297.5465 832.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743A39.png"  transform="matrix(1 0 0 1 297.5465 832.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M348.3,853.5h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H348.3
@@ -2361,7 +2362,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g onmouseover="show('Ovidiu-tab')" onmouseout="hide('Ovidiu-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A29.png"  transform="matrix(1 0 0 1 541.6175 862.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A3A.png"  transform="matrix(1 0 0 1 541.6175 862.6175)">
 					</image>
 					<g>
 						<g>
@@ -2371,9 +2372,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_66_">
 								<use xlink:href="#SVGID_65_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_66_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_66_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 545.1746 866.507)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2387,8 +2388,8 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					<rect x="346" y="980.8" class="st25" width="330.9" height="173"/>
 					<text transform="matrix(1 0 0 1 346.0488 992.4531)"><tspan x="0" y="0" class="st26 st23 st27">Cu</tspan><tspan x="17.9" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="35.2" y="0" class="st26 st23 st27">o</tspan><tspan x="44.1" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="61.4" y="0" class="st26 st23 st27">pasiune</tspan><tspan x="114.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="131.5" y="0" class="st26 st23 st27">puternica</tspan><tspan x="196.4" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="213.7" y="0" class="st26 st23 st27">pentru</tspan><tspan x="260" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="277.3" y="0" class="st26 st23 st27">tot</tspan><tspan x="298.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="315.6" y="0" class="st26 st23 st27">ce </tspan><tspan x="0" y="18" class="st26 st23 st27">functioneaza</tspan><tspan x="88.4" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="18" class="st26 st23 st27">cu</tspan><tspan x="112.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="121.7" y="18" class="st26 st23 st27">electricitate,</tspan><tspan x="207.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="216.7" y="18" class="st26 st23 st27">Luca</tspan><tspan x="247.9" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="256.7" y="18" class="st26 st23 st27">e</tspan><tspan x="265.1" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="274" y="18" class="st26 st23 st27">un</tspan><tspan x="291.2" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="300" y="18" class="st26 st23 st27">lider </tspan><tspan x="0" y="36" class="st26 st23 st27">persistent</tspan><tspan x="69.2" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="78" y="36" class="st26 st23 st27">si</tspan><tspan x="88.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="36" class="st26 st23 st27">focusat.</tspan><tspan x="151.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="160.4" y="36" class="st26 st23 st27">Adora</tspan><tspan x="201.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="210.4" y="36" class="st26 st23 st27">sa</tspan><tspan x="224.9" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="233.7" y="36" class="st26 st23 st27">dezbata</tspan><tspan x="288.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="297.2" y="36" class="st26 st23 st27">si</tspan><tspan x="307.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="316.4" y="36" class="st26 st23 st27">sa </tspan><tspan x="0" y="54" class="st26 st23 st27">aduca</tspan><tspan x="40.1" y="54" class="st26 st23 st27"> </tspan><tspan x="43.2" y="54" class="st26 st23 st27">argumente</tspan><tspan x="118.4" y="54" class="st26 st23 st27"> </tspan><tspan x="121.6" y="54" class="st26 st23 st27">puternice</tspan><tspan x="187" y="54" class="st26 st23 st27"> </tspan><tspan x="190.1" y="54" class="st26 st23 st27">la</tspan><tspan x="202.1" y="54" class="st26 st23 st27"> </tspan><tspan x="205.2" y="54" class="st26 st23 st27">masa</tspan><tspan x="240.5" y="54" class="st26 st23 st27"> </tspan><tspan x="243.6" y="54" class="st26 st23 st27">de</tspan><tspan x="260.8" y="54" class="st26 st23 st27"> </tspan><tspan x="264" y="54" class="st26 st23 st27">negocieri, </tspan><tspan x="0" y="72" class="st26 st23 st27">iar</tspan><tspan x="17.4" y="72" class="st26 st23 st27"> </tspan><tspan x="20.3" y="72" class="st26 st23 st27">abilitatile</tspan><tspan x="84.8" y="72" class="st26 st23 st27"> </tspan><tspan x="87.8" y="72" class="st26 st23 st27">sale</tspan><tspan x="114.8" y="72" class="st26 st23 st27"> </tspan><tspan x="117.7" y="72" class="st26 st23 st27">de</tspan><tspan x="134.9" y="72" class="st26 st23 st27"> </tspan><tspan x="137.8" y="72" class="st26 st23 st27">public</tspan><tspan x="179" y="72" class="st26 st23 st27"> </tspan><tspan x="181.9" y="72" class="st26 st23 st27">speaking</tspan><tspan x="242.5" y="72" class="st26 st23 st27"> </tspan><tspan x="245.4" y="72" class="st26 st23 st27">l-au</tspan><tspan x="270.5" y="72" class="st26 st23 st27"> </tspan><tspan x="273.4" y="72" class="st26 st23 st27">ajutat</tspan><tspan x="313.5" y="72" class="st26 st23 st27"> </tspan><tspan x="316.4" y="72" class="st26 st23 st27">sa </tspan><tspan x="0" y="90" class="st26 st23 st27">creasca</tspan><tspan x="50.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="57.2" y="90" class="st26 st23 st27">dintr-un</tspan><tspan x="112" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="118.7" y="90" class="st26 st23 st27">adolescent</tspan><tspan x="193.4" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="200.1" y="90" class="st26 st23 st27">timid</tspan><tspan x="235.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="242.2" y="90" class="st26 st23 st27">intr-un</tspan><tspan x="288.1" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="294.8" y="90" class="st26 st23 st27">tanar </tspan><tspan x="0" y="108" class="st26 st23 st27">decis</tspan><tspan x="34.7" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="43.7" y="108" class="st26 st23 st27">si</tspan><tspan x="54.1" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="63.1" y="108" class="st26 st23 st27">abil.</tspan><tspan x="91.4" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="100.3" y="108" class="st26 st23 st27">Principalele</tspan><tspan x="180" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="189" y="108" class="st26 st23 st27">sale</tspan><tspan x="216" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="225" y="108" class="st26 st23 st27">interese</tspan><tspan x="281" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="290" y="108" class="st26 st23 st27">includ </tspan><tspan x="0" y="126" class="st26 st23 st27">robotica,</tspan><tspan x="60.6" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="76.3" y="126" class="st26 st23 st27">educatia,</tspan><tspan x="138.3" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="153.9" y="126" class="st26 st23 st27">inovatia,</tspan><tspan x="211.8" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="227.5" y="126" class="st26 st23 st27">si</tspan><tspan x="238" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="253.6" y="126" class="st26 st23 st27">construirea </tspan><tspan x="0" y="144" class="st26 st23 st27">caracterelor.</tspan></text>
 				</g>
-				<circle class="st38" cx="1085.6" cy="1221.8" r="145"/>
-				<circle class="st39" cx="1079.6" cy="1214.6" r="145"/>
+				<circle class="st39" cx="1085.6" cy="1221.8" r="145"/>
+				<circle class="st40" cx="1079.6" cy="1214.6" r="145"/>
 			</g>
 		</g>
 		<g id="Tudor-tab" class="st0">
@@ -2398,7 +2399,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					C224.2,999.3,237.7,985.8,254.3,985.8z"/>
 				<g onmouseover="show('Tudor-tab')" onmouseout="hide('Tudor-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.67;" width="423" height="360" xlink:href="BB743A2A.png"  transform="matrix(1 0 0 1 200.5465 960.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="423" height="360" xlink:href="BB743A3C.png"  transform="matrix(1 0 0 1 200.5465 960.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M251.5,981.8h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H251.5
@@ -2407,7 +2408,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g onmouseover="show('Tudor-tab')" onmouseout="hide('Tudor-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A2B.png"  transform="matrix(1 0 0 1 444.6175 990.6175)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="183" xlink:href="BB743A3D.png"  transform="matrix(1 0 0 1 444.6175 990.6175)">
 					</image>
 					<g>
 						<g>
@@ -2417,9 +2418,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_68_">
 								<use xlink:href="#SVGID_67_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_68_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_68_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 448.2896 994.8423)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2433,8 +2434,8 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					<rect x="249.2" y="1109.1" class="st25" width="330.9" height="173"/>
 					<text transform="matrix(1 0 0 1 249.165 1120.7891)"><tspan x="0" y="0" class="st26 st23 st27">Cu</tspan><tspan x="17.9" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="35.2" y="0" class="st26 st23 st27">o</tspan><tspan x="44.1" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="61.4" y="0" class="st26 st23 st27">pasiune</tspan><tspan x="114.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="131.5" y="0" class="st26 st23 st27">puternica</tspan><tspan x="196.4" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="213.7" y="0" class="st26 st23 st27">pentru</tspan><tspan x="260" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="277.3" y="0" class="st26 st23 st27">tot</tspan><tspan x="298.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="315.6" y="0" class="st26 st23 st27">ce </tspan><tspan x="0" y="18" class="st26 st23 st27">functioneaza</tspan><tspan x="88.4" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="18" class="st26 st23 st27">cu</tspan><tspan x="112.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="121.7" y="18" class="st26 st23 st27">electricitate,</tspan><tspan x="207.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="216.7" y="18" class="st26 st23 st27">Luca</tspan><tspan x="247.9" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="256.7" y="18" class="st26 st23 st27">e</tspan><tspan x="265.1" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="274" y="18" class="st26 st23 st27">un</tspan><tspan x="291.2" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="300" y="18" class="st26 st23 st27">lider </tspan><tspan x="0" y="36" class="st26 st23 st27">persistent</tspan><tspan x="69.2" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="78" y="36" class="st26 st23 st27">si</tspan><tspan x="88.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="36" class="st26 st23 st27">focusat.</tspan><tspan x="151.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="160.4" y="36" class="st26 st23 st27">Adora</tspan><tspan x="201.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="210.4" y="36" class="st26 st23 st27">sa</tspan><tspan x="224.9" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="233.7" y="36" class="st26 st23 st27">dezbata</tspan><tspan x="288.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="297.2" y="36" class="st26 st23 st27">si</tspan><tspan x="307.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="316.4" y="36" class="st26 st23 st27">sa </tspan><tspan x="0" y="54" class="st26 st23 st27">aduca</tspan><tspan x="40.1" y="54" class="st26 st23 st27"> </tspan><tspan x="43.2" y="54" class="st26 st23 st27">argumente</tspan><tspan x="118.4" y="54" class="st26 st23 st27"> </tspan><tspan x="121.6" y="54" class="st26 st23 st27">puternice</tspan><tspan x="187" y="54" class="st26 st23 st27"> </tspan><tspan x="190.1" y="54" class="st26 st23 st27">la</tspan><tspan x="202.1" y="54" class="st26 st23 st27"> </tspan><tspan x="205.2" y="54" class="st26 st23 st27">masa</tspan><tspan x="240.5" y="54" class="st26 st23 st27"> </tspan><tspan x="243.6" y="54" class="st26 st23 st27">de</tspan><tspan x="260.8" y="54" class="st26 st23 st27"> </tspan><tspan x="264" y="54" class="st26 st23 st27">negocieri, </tspan><tspan x="0" y="72" class="st26 st23 st27">iar</tspan><tspan x="17.4" y="72" class="st26 st23 st27"> </tspan><tspan x="20.3" y="72" class="st26 st23 st27">abilitatile</tspan><tspan x="84.8" y="72" class="st26 st23 st27"> </tspan><tspan x="87.8" y="72" class="st26 st23 st27">sale</tspan><tspan x="114.8" y="72" class="st26 st23 st27"> </tspan><tspan x="117.7" y="72" class="st26 st23 st27">de</tspan><tspan x="134.9" y="72" class="st26 st23 st27"> </tspan><tspan x="137.8" y="72" class="st26 st23 st27">public</tspan><tspan x="179" y="72" class="st26 st23 st27"> </tspan><tspan x="181.9" y="72" class="st26 st23 st27">speaking</tspan><tspan x="242.5" y="72" class="st26 st23 st27"> </tspan><tspan x="245.4" y="72" class="st26 st23 st27">l-au</tspan><tspan x="270.5" y="72" class="st26 st23 st27"> </tspan><tspan x="273.4" y="72" class="st26 st23 st27">ajutat</tspan><tspan x="313.5" y="72" class="st26 st23 st27"> </tspan><tspan x="316.4" y="72" class="st26 st23 st27">sa </tspan><tspan x="0" y="90" class="st26 st23 st27">creasca</tspan><tspan x="50.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="57.2" y="90" class="st26 st23 st27">dintr-un</tspan><tspan x="112" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="118.7" y="90" class="st26 st23 st27">adolescent</tspan><tspan x="193.4" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="200.1" y="90" class="st26 st23 st27">timid</tspan><tspan x="235.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="242.2" y="90" class="st26 st23 st27">intr-un</tspan><tspan x="288.1" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="294.8" y="90" class="st26 st23 st27">tanar </tspan><tspan x="0" y="108" class="st26 st23 st27">decis</tspan><tspan x="34.7" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="43.7" y="108" class="st26 st23 st27">si</tspan><tspan x="54.1" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="63.1" y="108" class="st26 st23 st27">abil.</tspan><tspan x="91.4" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="100.3" y="108" class="st26 st23 st27">Principalele</tspan><tspan x="180" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="189" y="108" class="st26 st23 st27">sale</tspan><tspan x="216" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="225" y="108" class="st26 st23 st27">interese</tspan><tspan x="281" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="290" y="108" class="st26 st23 st27">includ </tspan><tspan x="0" y="126" class="st26 st23 st27">robotica,</tspan><tspan x="60.6" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="76.3" y="126" class="st26 st23 st27">educatia,</tspan><tspan x="138.3" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="153.9" y="126" class="st26 st23 st27">inovatia,</tspan><tspan x="211.8" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="227.5" y="126" class="st26 st23 st27">si</tspan><tspan x="238" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="253.6" y="126" class="st26 st23 st27">construirea </tspan><tspan x="0" y="144" class="st26 st23 st27">caracterelor.</tspan></text>
 				</g>
-				<circle class="st38" cx="815.6" cy="1579.5" r="145"/>
-				<circle class="st39" cx="809.6" cy="1572.2" r="145"/>
+				<circle class="st39" cx="815.6" cy="1579.5" r="145"/>
+				<circle class="st40" cx="809.6" cy="1572.2" r="145"/>
 			</g>
 		</g>
 		<g id="Teo-tab" class="st0">
@@ -2444,7 +2445,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					C259,1183.9,272.5,1170.4,289.1,1170.4z"/>
 				<g onmouseover="show('Teo-tab')" onmouseout="hide('Teo-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743ACD.png"  transform="matrix(1 0 0 1 235.5465 1145.5465)">
+						<image style="overflow:visible;opacity:0.67;" width="422" height="359" xlink:href="BB743AC0.png"  transform="matrix(1 0 0 1 235.5465 1145.5465)">
 					</image>
 					<g>
 						<path class="st11" d="M286.3,1166.4h320.4c16.7,0,30.2,13.5,30.2,30.2v256.9c0,16.7-13.5,30.2-30.2,30.2H286.3
@@ -2453,7 +2454,7 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 				</g>
 				<g onmouseover="show('Teo-tab')" onmouseout="hide('Teo-tab')" class="st8">
 					
-						<image style="overflow:visible;opacity:0.5;" width="182" height="184" xlink:href="BB743AC3.png"  transform="matrix(1 0 0 1 479.6175 1174.6176)">
+						<image style="overflow:visible;opacity:0.5;" width="182" height="184" xlink:href="BB743AC7.png"  transform="matrix(1 0 0 1 479.6175 1174.6176)">
 					</image>
 					<g>
 						<g>
@@ -2463,9 +2464,9 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 							<clipPath id="SVGID_70_">
 								<use xlink:href="#SVGID_69_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_70_);">
+							<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_70_);">
 								
-									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.3402 0 0 0.3402 483.0964 1179.4325)">
+									<image style="overflow:visible;" width="500" height="500" xlink:href="member-photos/small/Luca Stirbat.jpg"  transform="matrix(0.24 0 0 0.24 -656 -1908)">
 								</image>
 							</g>
 						</g>
@@ -2479,8 +2480,8 @@ Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX//2Q==
 					<rect x="284" y="1293.7" class="st25" width="330.9" height="173"/>
 					<text transform="matrix(1 0 0 1 283.9707 1305.3789)"><tspan x="0" y="0" class="st26 st23 st27">Cu</tspan><tspan x="17.9" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="35.2" y="0" class="st26 st23 st27">o</tspan><tspan x="44.1" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="61.4" y="0" class="st26 st23 st27">pasiune</tspan><tspan x="114.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="131.5" y="0" class="st26 st23 st27">puternica</tspan><tspan x="196.4" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="213.7" y="0" class="st26 st23 st27">pentru</tspan><tspan x="260" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="277.3" y="0" class="st26 st23 st27">tot</tspan><tspan x="298.2" y="0" class="st26 st23 st27 st28"> </tspan><tspan x="315.6" y="0" class="st26 st23 st27">ce </tspan><tspan x="0" y="18" class="st26 st23 st27">functioneaza</tspan><tspan x="88.4" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="18" class="st26 st23 st27">cu</tspan><tspan x="112.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="121.7" y="18" class="st26 st23 st27">electricitate,</tspan><tspan x="207.8" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="216.7" y="18" class="st26 st23 st27">Luca</tspan><tspan x="247.9" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="256.7" y="18" class="st26 st23 st27">e</tspan><tspan x="265.1" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="274" y="18" class="st26 st23 st27">un</tspan><tspan x="291.2" y="18" class="st26 st23 st27 st29"> </tspan><tspan x="300" y="18" class="st26 st23 st27">lider </tspan><tspan x="0" y="36" class="st26 st23 st27">persistent</tspan><tspan x="69.2" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="78" y="36" class="st26 st23 st27">si</tspan><tspan x="88.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="97.2" y="36" class="st26 st23 st27">focusat.</tspan><tspan x="151.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="160.4" y="36" class="st26 st23 st27">Adora</tspan><tspan x="201.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="210.4" y="36" class="st26 st23 st27">sa</tspan><tspan x="224.9" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="233.7" y="36" class="st26 st23 st27">dezbata</tspan><tspan x="288.5" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="297.2" y="36" class="st26 st23 st27">si</tspan><tspan x="307.7" y="36" class="st26 st23 st27 st29"> </tspan><tspan x="316.4" y="36" class="st26 st23 st27">sa </tspan><tspan x="0" y="54" class="st26 st23 st27">aduca</tspan><tspan x="40.1" y="54" class="st26 st23 st27"> </tspan><tspan x="43.2" y="54" class="st26 st23 st27">argumente</tspan><tspan x="118.4" y="54" class="st26 st23 st27"> </tspan><tspan x="121.6" y="54" class="st26 st23 st27">puternice</tspan><tspan x="187" y="54" class="st26 st23 st27"> </tspan><tspan x="190.1" y="54" class="st26 st23 st27">la</tspan><tspan x="202.1" y="54" class="st26 st23 st27"> </tspan><tspan x="205.2" y="54" class="st26 st23 st27">masa</tspan><tspan x="240.5" y="54" class="st26 st23 st27"> </tspan><tspan x="243.6" y="54" class="st26 st23 st27">de</tspan><tspan x="260.8" y="54" class="st26 st23 st27"> </tspan><tspan x="264" y="54" class="st26 st23 st27">negocieri, </tspan><tspan x="0" y="72" class="st26 st23 st27">iar</tspan><tspan x="17.4" y="72" class="st26 st23 st27"> </tspan><tspan x="20.3" y="72" class="st26 st23 st27">abilitatile</tspan><tspan x="84.8" y="72" class="st26 st23 st27"> </tspan><tspan x="87.8" y="72" class="st26 st23 st27">sale</tspan><tspan x="114.8" y="72" class="st26 st23 st27"> </tspan><tspan x="117.7" y="72" class="st26 st23 st27">de</tspan><tspan x="134.9" y="72" class="st26 st23 st27"> </tspan><tspan x="137.8" y="72" class="st26 st23 st27">public</tspan><tspan x="179" y="72" class="st26 st23 st27"> </tspan><tspan x="181.9" y="72" class="st26 st23 st27">speaking</tspan><tspan x="242.5" y="72" class="st26 st23 st27"> </tspan><tspan x="245.4" y="72" class="st26 st23 st27">l-au</tspan><tspan x="270.5" y="72" class="st26 st23 st27"> </tspan><tspan x="273.4" y="72" class="st26 st23 st27">ajutat</tspan><tspan x="313.5" y="72" class="st26 st23 st27"> </tspan><tspan x="316.4" y="72" class="st26 st23 st27">sa </tspan><tspan x="0" y="90" class="st26 st23 st27">creasca</tspan><tspan x="50.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="57.2" y="90" class="st26 st23 st27">dintr-un</tspan><tspan x="112" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="118.7" y="90" class="st26 st23 st27">adolescent</tspan><tspan x="193.4" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="200.1" y="90" class="st26 st23 st27">timid</tspan><tspan x="235.5" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="242.2" y="90" class="st26 st23 st27">intr-un</tspan><tspan x="288.1" y="90" class="st26 st23 st27 st30"> </tspan><tspan x="294.8" y="90" class="st26 st23 st27">tanar </tspan><tspan x="0" y="108" class="st26 st23 st27">decis</tspan><tspan x="34.7" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="43.7" y="108" class="st26 st23 st27">si</tspan><tspan x="54.1" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="63.1" y="108" class="st26 st23 st27">abil.</tspan><tspan x="91.4" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="100.3" y="108" class="st26 st23 st27">Principalele</tspan><tspan x="180" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="189" y="108" class="st26 st23 st27">sale</tspan><tspan x="216" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="225" y="108" class="st26 st23 st27">interese</tspan><tspan x="281" y="108" class="st26 st23 st27 st29"> </tspan><tspan x="290" y="108" class="st26 st23 st27">includ </tspan><tspan x="0" y="126" class="st26 st23 st27">robotica,</tspan><tspan x="60.6" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="76.3" y="126" class="st26 st23 st27">educatia,</tspan><tspan x="138.3" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="153.9" y="126" class="st26 st23 st27">inovatia,</tspan><tspan x="211.8" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="227.5" y="126" class="st26 st23 st27">si</tspan><tspan x="238" y="126" class="st26 st23 st27 st31"> </tspan><tspan x="253.6" y="126" class="st26 st23 st27">construirea </tspan><tspan x="0" y="144" class="st26 st23 st27">caracterelor.</tspan></text>
 				</g>
-				<circle class="st38" cx="912.6" cy="2093.9" r="145"/>
-				<circle class="st39" cx="906.6" cy="2086.6" r="145"/>
+				<circle class="st39" cx="912.6" cy="2093.9" r="145"/>
+				<circle class="st40" cx="906.6" cy="2086.6" r="145"/>
 			</g>
 		</g>
 	</g>
