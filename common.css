@@ -219,6 +219,7 @@ a {
 	
 	.logo .logo-text {
 		margin-left: 70px;
+		width:calc(70vw - 50px);
 	}
 	
 	.logo_m {
@@ -243,7 +244,7 @@ a {
 		font-size: 3vmin;
 	}
 	#motto{
-		left: 50px;
+		left: 5vw;
 	}
 	#submotto {
 		font-size: 3vmin;
@@ -264,5 +265,16 @@ a {
 	.description span {
 		font-size: 20px;
 		line-height: normal;
+	}
+}
+@media screen and (max-width: 500px) {
+	.logo .logo-text {
+		margin-left: 70px;
+		width:calc(70vw - 150px);
+		line-height:30px;
+		margin-top:-23px;
+	}
+	#motto{
+		margin-top:50px;
 	}
 }
