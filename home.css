@@ -34,11 +34,11 @@
 	background-position: center;
 }
 
-#cursurisport-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 20% , rgba(0, 0, 0, 0) 100%), url(img/sportier_bg.jpeg);
+#sportier-panel {
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20% , rgba(0, 0, 0, 0.2) 100%), url(img/sportier_bg.jpeg);
 }
 
-#cursurisport-panel img {
+#sportier-panel img {
 	margin-top: 6vw;
 	margin-bottom: -3vw;
 	width: 40vw;
@@ -94,14 +94,14 @@
 	background: linear-gradient(90deg, rgba(0, 0, 0, 0.7) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/Frame.png);
 }
 
-#foodtrach-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/foodtrach.png);
+#exploapp-panel {
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 23.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/exploapp_bg.jpeg);
 }
 
-#foodtrach-panel img {
-	margin-top: 6vw;
+#exploapp-panel img {
+	margin-top: 10vw;
 	margin-bottom: 1vw;
-	width: 15vh;
+	width: 50vw;
 }
 
 #smartboard-panel {
@@ -109,14 +109,14 @@
 	background-position: center;
 }
 
-#cursurisport-panel {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 33.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/cursurisport.png);
+#sportier-panel {
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.493) 33.5%, rgba(0, 0, 0, 0) 60.17%, rgba(0, 0, 0, 0) 60.17%), url(img/sportier_bg.jpeg);
 }
 
-#cursurisport-panel img {
-	margin-top: 6vw;
-	margin-bottom: 1vw;
-	width: 10vw;
+#sportier-panel img {
+	margin-top: 8vw;
+	margin-bottom: -5vw;
+	width: 70vw;
 }
 
 #imprimanta-panel {
