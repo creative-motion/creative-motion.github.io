@@ -11,12 +11,20 @@
     font-family: 'Ubuntu'!important;
     font-weight: bold !important;
 }
-.st21{
+.st22{
     font-family: 'Ubuntu'!important;
 }
 #parallax-stars {
 	bottom: -80%;
 	width: 100vw;
+}
+#You-frame_12_:hover .st16{
+    cursor: pointer;
+    opacity:0.3;
+}
+#Patreon-frame_12_:hover .st16{
+    cursor: pointer;
+    opacity:0.3;
 }
 @media screen and (max-width: 1000px){
     .txt_col {

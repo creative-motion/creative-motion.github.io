@@ -132,6 +132,9 @@ a {
 	height: 80vh;
 }
 
+.active {
+	color:white !important;
+}
 #motto {
 	font-family: "Ubuntu";
 	font-weight: bold;
